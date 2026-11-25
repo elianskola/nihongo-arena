@@ -1,0 +1,130 @@
+# level|word|reading|pos|meaning_en|meaning_sv|sentence ([target], {漢字|よみ} overrides)|translation_en|translation_sv
+N5|食べる|たべる|v|to eat|att äta|毎朝パンを[食べます]。|I eat bread every morning.|Jag äter bröd varje morgon.
+N5|飲む|のむ|v|to drink|att dricka|私はコーヒーを[飲みます]。|I drink coffee.|Jag dricker kaffe.
+N5|見る|みる|v|to see; to watch|att se; att titta|昨日、映画を[見ました]。|I watched a movie yesterday.|Jag såg en film igår.
+N5|聞く|きく|v|to listen; to ask|att lyssna; att fråga|毎晩音楽を[聞きます]。|I listen to music every night.|Jag lyssnar på musik varje kväll.
+N5|読む|よむ|v|to read|att läsa|電車で本を[読みます]。|I read books on the train.|Jag läser böcker på tåget.
+N5|書く|かく|v|to write|att skriva|友達に手紙を[書きました]。|I wrote a letter to my friend.|Jag skrev ett brev till min vän.
+N5|話す|はなす|v|to speak; to talk|att prata; att tala|先生と日本語で[話しました]。|I spoke with the teacher in Japanese.|Jag pratade med läraren på japanska.
+N5|行く|いく|v|to go|att gå; att åka|明日、東京に[行きます]。|I will go to Tokyo tomorrow.|Jag åker till Tokyo imorgon.
+N5|来る|くる|v|to come|att komma|友達が家に[来ました]。|My friend came to my house.|Min vän kom hem till mig.
+N5|帰る|かえる|v|to return home|att gå hem; att återvända|六時に家へ[帰ります]。|I go home at six.|Jag går hem klockan sex.
+N5|買う|かう|v|to buy|att köpa|デパートで靴を[買いました]。|I bought shoes at the department store.|Jag köpte skor på varuhuset.
+N5|会う|あう|v|to meet|att träffa|駅で友達に[会いました]。|I met my friend at the station.|Jag träffade min vän på stationen.
+N5|待つ|まつ|v|to wait|att vänta|ここで少し[待って]ください。|Please wait here a moment.|Vänta här en stund, tack.
+N5|起きる|おきる|v|to wake up; to get up|att vakna; att gå upp|毎朝七時に[起きます]。|I get up at seven every morning.|Jag går upp klockan sju varje morgon.
+N5|寝る|ねる|v|to sleep; to go to bed|att sova; att gå och lägga sig|昨日は十一時に[寝ました]。|I went to bed at eleven yesterday.|Igår gick jag och lade mig klockan elva.
+N5|作る|つくる|v|to make|att göra; att laga|母が晩ご飯を[作りました]。|My mother made dinner.|Min mamma lagade middag.
+N5|使う|つかう|v|to use|att använda|この部屋を[使って]もいいですか。|May I use this room?|Får jag använda det här rummet?
+N5|分かる|わかる|v|to understand|att förstå|この言葉の意味が[分かりません]。|I don't understand the meaning of this word.|Jag förstår inte vad det här ordet betyder.
+N5|始まる|はじまる|v|to begin (intr.)|att börja|授業は九時に[始まります]。|Class begins at nine.|Lektionen börjar klockan nio.
+N5|休む|やすむ|v|to rest; to take time off|att vila; att ta ledigt|風邪で会社を[休みました]。|I took the day off work because of a cold.|Jag var hemma från jobbet på grund av en förkylning.
+N5|歩く|あるく|v|to walk|att gå (till fots)|駅まで[歩きました]。|I walked to the station.|Jag gick till stationen.
+N5|走る|はしる|v|to run|att springa|毎朝公園を[走ります]。|I run in the park every morning.|Jag springer i parken varje morgon.
+N5|泳ぐ|およぐ|v|to swim|att simma|夏は海で[泳ぎます]。|In summer I swim in the sea.|På sommaren simmar jag i havet.
+N5|遊ぶ|あそぶ|v|to play; to hang out|att leka; att umgås|子供たちが公園で[遊んで]います。|The children are playing in the park.|Barnen leker i parken.
+N5|教える|おしえる|v|to teach; to tell|att lära ut; att berätta|電話番号を[教えて]ください。|Please tell me your phone number.|Kan du ge mig ditt telefonnummer?
+N5|習う|ならう|v|to learn (from someone)|att lära sig (av någon)|子供のときピアノを[習いました]。|I learned piano as a child.|Jag lärde mig spela piano som barn.
+N5|入る|はいる|v|to enter|att gå in|部屋に[入って]もいいですか。|May I come into the room?|Får jag komma in i rummet?
+N5|出る|でる|v|to leave; to go out|att gå ut; att lämna|八時に家を[出ます]。|I leave the house at eight.|Jag går hemifrån klockan åtta.
+N5|住む|すむ|v|to live (reside)|att bo|姉は大阪に[住んで]います。|My older sister lives in Osaka.|Min storasyster bor i Osaka.
+N5|知る|しる|v|to know|att veta; att känna till|あの人の名前を[知って]いますか。|Do you know that person's name?|Vet du vad den personen heter?
+N5|撮る|とる|v|to take (a photo)|att ta (foto)|ここで写真を[撮って]もいいですか。|May I take photos here?|Får jag fotografera här?
+N5|開ける|あける|v|to open (tr.)|att öppna|窓を[開けて]ください。|Please open the window.|Öppna fönstret, tack.
+N5|閉める|しめる|v|to close (tr.)|att stänga|寒いからドアを[閉めて]ください。|It's cold, so please close the door.|Det är kallt, så stäng dörren, tack.
+N5|洗う|あらう|v|to wash|att tvätta|食べる前に手を[洗いましょう]。|Let's wash our hands before eating.|Låt oss tvätta händerna innan vi äter.
+N5|立つ|たつ|v|to stand|att stå; att ställa sig upp|みんな[立って]ください。|Everyone, please stand up.|Alla, ställ er upp, tack.
+N5|座る|すわる|v|to sit|att sitta; att sätta sig|どうぞ、ここに[座って]ください。|Please, have a seat here.|Varsågod, sätt dig här.
+N5|忘れる|わすれる|v|to forget|att glömma|傘を電車に[忘れました]。|I left my umbrella on the train.|Jag glömde mitt paraply på tåget.
+N5|貸す|かす|v|to lend|att låna ut|ペンを[貸して]くれませんか。|Could you lend me a pen?|Kan du låna mig en penna?
+N5|借りる|かりる|v|to borrow|att låna|図書館で本を[借りました]。|I borrowed a book from the library.|Jag lånade en bok på biblioteket.
+N5|乗る|のる|v|to ride; to get on|att åka; att stiga på|毎日バスに[乗ります]。|I ride the bus every day.|Jag åker buss varje dag.
+N5|降りる|おりる|v|to get off|att stiga av|次の駅で[降ります]。|I'll get off at the next station.|Jag stiger av vid nästa station.
+N5|答える|こたえる|v|to answer|att svara|質問に[答えて]ください。|Please answer the question.|Svara på frågan, tack.
+N5|呼ぶ|よぶ|v|to call; to invite|att kalla; att bjuda|タクシーを[呼んで]ください。|Please call a taxi.|Ring efter en taxi, tack.
+N5|死ぬ|しぬ|v|to die|att dö|祖父は去年[死にました]。|My grandfather died last year.|Min farfar dog förra året.
+N5|売る|うる|v|to sell|att sälja|あの店は古い本を[売って]います。|That shop sells old books.|Den affären säljer gamla böcker.
+N5|払う|はらう|v|to pay|att betala|カードで[払っても]いいですか。|May I pay by card?|Får jag betala med kort?
+N5|吸う|すう|v|to smoke; to inhale|att röka; att andas in|ここでたばこを[吸わないで]ください。|Please don't smoke here.|Rök inte här, tack.
+N5|弾く|ひく|v|to play (an instrument)|att spela (instrument)|妹はギターを[弾きます]。|My younger sister plays the guitar.|Min lillasyster spelar gitarr.
+N5|歌う|うたう|v|to sing|att sjunga|カラオケで歌を[歌いました]。|I sang songs at karaoke.|Jag sjöng sånger på karaoke.
+N5|掃除|そうじ|n|cleaning|städning|週末に部屋の[掃除]をします。|I clean my room on weekends.|Jag städar mitt rum på helgerna.
+N5|洗濯|せんたく|n|laundry|tvätt|日曜日に[洗濯]をします。|I do the laundry on Sundays.|Jag tvättar kläder på söndagar.
+N5|勉強|べんきょう|n|study|studier; plugg|毎晩二時間日本語の[勉強]をします。|I study Japanese for two hours every night.|Jag pluggar japanska i två timmar varje kväll.
+N5|料理|りょうり|n|cooking; cuisine|matlagning; mat|父は[料理]が上手です。|My father is good at cooking.|Min pappa är bra på att laga mat.
+N5|散歩|さんぽ|n|a walk; stroll|promenad|朝、犬と[散歩]をします。|In the morning I go for a walk with the dog.|På morgonen går jag på promenad med hunden.
+N5|旅行|りょこう|n|travel; trip|resa|来月、家族と[旅行]に行きます。|Next month I'm going on a trip with my family.|Nästa månad ska jag ut och resa med familjen.
+N5|仕事|しごと|n|work; job|arbete; jobb|兄の[仕事]は銀行員です。|My older brother works at a bank.|Min storebror jobbar på bank.
+N5|宿題|しゅくだい|n|homework|läxa|今日は[宿題]がたくさんあります。|I have a lot of homework today.|Jag har mycket läxor idag.
+N5|質問|しつもん|n|question|fråga|[質問]がある人は手を上げてください。|Anyone with a question, please raise your hand.|Den som har en fråga får räcka upp handen.
+N5|電話|でんわ|n|telephone; phone call|telefon; samtal|夜、母に[電話]をかけました。|I called my mother in the evening.|Jag ringde min mamma på kvällen.
+N5|手紙|てがみ|n|letter|brev|祖母から[手紙]が来ました。|A letter came from my grandmother.|Det kom ett brev från min mormor.
+N5|写真|しゃしん|n|photograph|foto; bild|これは家族の[写真]です。|This is a photo of my family.|Det här är ett foto på min familj.
+N5|映画|えいが|n|movie|film|週末に[映画]を見に行きませんか。|Won't you go see a movie this weekend?|Vill du gå på bio i helgen?
+N5|音楽|おんがく|n|music|musik|どんな[音楽]が好きですか。|What kind of music do you like?|Vilken sorts musik gillar du?
+N5|本|ほん|n|book|bok|この[本]はとても面白いです。|This book is very interesting.|Den här boken är väldigt intressant.
+N5|新聞|しんぶん|n|newspaper|tidning|父は毎朝[新聞]を読みます。|My father reads the newspaper every morning.|Min pappa läser tidningen varje morgon.
+N5|辞書|じしょ|n|dictionary|ordbok|分からない言葉は[辞書]で調べます。|I look up words I don't know in the dictionary.|Ord jag inte förstår slår jag upp i ordboken.
+N5|鉛筆|えんぴつ|n|pencil|blyertspenna|[鉛筆]で名前を書いてください。|Please write your name in pencil.|Skriv ditt namn med blyerts, tack.
+N5|机|つくえ|n|desk|skrivbord|[机]の上に辞書があります。|There is a dictionary on the desk.|Det ligger en ordbok på skrivbordet.
+N5|椅子|いす|n|chair|stol|この[椅子]に座ってもいいですか。|May I sit on this chair?|Får jag sitta på den här stolen?
+N5|窓|まど|n|window|fönster|[窓]から山が見えます。|You can see the mountains from the window.|Man kan se bergen från fönstret.
+N5|部屋|へや|n|room|rum|私の[部屋]は二階にあります。|My room is on the second floor.|Mitt rum ligger på andra våningen.
+N5|家|いえ|n|house; home|hus; hem|私の[家]は駅から近いです。|My house is close to the station.|Mitt hus ligger nära stationen.
+N5|学校|がっこう|n|school|skola|弟は歩いて[学校]へ行きます。|My younger brother walks to school.|Min lillebror går till skolan.
+N5|大学|だいがく|n|university|universitet|姉は[大学]で英語を勉強しています。|My older sister studies English at university.|Min storasyster läser engelska på universitetet.
+N5|会社|かいしゃ|n|company; office|företag; kontor|父は八時に[会社]へ行きます。|My father goes to the office at eight.|Min pappa åker till jobbet klockan åtta.
+N5|病院|びょういん|n|hospital|sjukhus|頭が痛いので[病院]へ行きました。|I had a headache, so I went to the hospital.|Jag hade huvudvärk, så jag åkte till sjukhuset.
+N5|銀行|ぎんこう|n|bank|bank|[銀行]は三時に閉まります。|The bank closes at three.|Banken stänger klockan tre.
+N5|郵便局|ゆうびんきょく|n|post office|postkontor|[郵便局]で切手を買いました。|I bought stamps at the post office.|Jag köpte frimärken på posten.
+N5|図書館|としょかん|n|library|bibliotek|[図書館]では静かにしてください。|Please be quiet in the library.|Var tyst i biblioteket, tack.
+N5|駅|えき|n|station|station|[駅]の前にコンビニがあります。|There is a convenience store in front of the station.|Det finns en närbutik framför stationen.
+N5|店|みせ|n|shop; store|affär; butik|この[店]のラーメンはおいしいです。|The ramen at this shop is delicious.|Ramen på det här stället är god.
+N5|喫茶店|きっさてん|n|coffee shop|kafé|駅の近くの[喫茶店]で会いましょう。|Let's meet at the café near the station.|Vi ses på kaféet nära stationen.
+N5|公園|こうえん|n|park|park|日曜日は[公園]に人がたくさんいます。|There are lots of people in the park on Sundays.|På söndagar är det mycket folk i parken.
+N5|道|みち|n|road; way|väg|この[道]をまっすぐ行ってください。|Please go straight along this road.|Gå rakt fram längs den här vägen.
+N5|車|くるま|n|car|bil|父の[車]は白いです。|My father's car is white.|Min pappas bil är vit.
+N5|自転車|じてんしゃ|n|bicycle|cykel|毎日[自転車]で学校へ行きます。|I go to school by bicycle every day.|Jag cyklar till skolan varje dag.
+N5|電車|でんしゃ|n|train|tåg|朝の[電車]はとても込んでいます。|The morning trains are very crowded.|Morgontågen är väldigt fulla.
+N5|飛行機|ひこうき|n|airplane|flygplan|[飛行機]で北海道へ行きました。|I went to Hokkaido by plane.|Jag flög till Hokkaido.
+N5|水|みず|n|water|vatten|冷たい[水]を一杯ください。|A glass of cold water, please.|Ett glas kallt vatten, tack.
+N5|お茶|おちゃ|n|tea|te|日本人はよく[お茶]を飲みます。|Japanese people often drink tea.|Japaner dricker ofta te.
+N5|牛乳|ぎゅうにゅう|n|milk|mjölk|冷蔵庫に[牛乳]があります。|There is milk in the fridge.|Det finns mjölk i kylskåpet.
+N5|卵|たまご|n|egg|ägg|朝ご飯に[卵]を二つ食べました。|I ate two eggs for breakfast.|Jag åt två ägg till frukost.
+N5|肉|にく|n|meat|kött|弟は野菜より[肉]が好きです。|My younger brother likes meat more than vegetables.|Min lillebror gillar kött mer än grönsaker.
+N5|魚|さかな|n|fish|fisk|この川には[魚]がたくさんいます。|There are many fish in this river.|Det finns mycket fisk i den här floden.
+N5|野菜|やさい|n|vegetables|grönsaker|毎日[野菜]を食べましょう。|Let's eat vegetables every day.|Låt oss äta grönsaker varje dag.
+N5|果物|くだもの|n|fruit|frukt|どんな[果物]が好きですか。|What kind of fruit do you like?|Vilken frukt tycker du om?
+N5|朝ご飯|あさごはん|n|breakfast|frukost|今日は[朝ご飯]を食べませんでした。|I didn't eat breakfast today.|Jag åt ingen frukost idag.
+N5|晩ご飯|ばんごはん|n|dinner|middag|[晩ご飯]は何を食べましたか。|What did you eat for dinner?|Vad åt du till middag?
+N5|天気|てんき|n|weather|väder|今日はいい[天気]ですね。|The weather is nice today, isn't it?|Det är fint väder idag, eller hur?
+N5|雨|あめ|n|rain|regn|[雨]が降っているから、傘を持って行きます。|It's raining, so I'll take an umbrella.|Det regnar, så jag tar med ett paraply.
+N5|雪|ゆき|n|snow|snö|北海道は冬に[雪]がたくさん降ります。|A lot of snow falls in Hokkaido in winter.|Det snöar mycket på Hokkaido på vintern.
+N5|風|かぜ|n|wind|vind; blåst|今日は[風]が強いです。|The wind is strong today.|Det blåser hårt idag.
+N5|空|そら|n|sky|himmel|今日は[空]が青くてきれいです。|The sky is blue and beautiful today.|Himlen är blå och vacker idag.
+N5|山|やま|n|mountain|berg|夏休みに[山]に登りました。|I climbed a mountain during summer vacation.|Jag besteg ett berg under sommarlovet.
+N5|川|かわ|n|river|flod; å|[川]の近くを散歩しました。|I took a walk near the river.|Jag tog en promenad nära ån.
+N5|海|うみ|n|sea; ocean|hav|週末、家族で[海]へ行きました。|On the weekend I went to the sea with my family.|I helgen åkte jag till havet med familjen.
+N5|花|はな|n|flower|blomma|庭にきれいな[花]が咲いています。|Beautiful flowers are blooming in the garden.|Vackra blommor blommar i trädgården.
+N5|犬|いぬ|n|dog|hund|隣の家に大きい[犬]がいます。|There's a big dog at the house next door.|Grannarna har en stor hund.
+N5|猫|ねこ|n|cat|katt|[猫]がいすの上で寝ています。|The cat is sleeping on the chair.|Katten sover på stolen.
+N5|鳥|とり|n|bird|fågel|朝、[鳥]の声が聞こえます。|In the morning you can hear birds.|På morgonen kan man höra fåglarna.
+N5|友達|ともだち|n|friend|vän; kompis|[友達]と一緒に昼ご飯を食べました。|I ate lunch together with a friend.|Jag åt lunch tillsammans med en kompis.
+N5|先生|せんせい|n|teacher|lärare|田中[先生]は優しいです。|Mr. Tanaka (the teacher) is kind.|Läraren Tanaka är snäll.
+N5|学生|がくせい|n|student|student; elev|私は大学の[学生]です。|I'm a university student.|Jag är universitetsstudent.
+N5|子供|こども|n|child|barn|[子供]が三人います。|I have three children.|Jag har tre barn.
+N5|家族|かぞく|n|family|familj|私の[家族]は四人です。|There are four people in my family.|Vi är fyra i min familj.
+N5|父|ちち|n|(my) father|(min) pappa|[父]は医者です。|My father is a doctor.|Min pappa är läkare.
+N5|母|はは|n|(my) mother|(min) mamma|[母]は料理が好きです。|My mother likes cooking.|Min mamma tycker om att laga mat.
+N5|兄|あに|n|(my) older brother|(min) storebror|[兄]は東京で働いています。|My older brother works in Tokyo.|Min storebror jobbar i Tokyo.
+N5|姉|あね|n|(my) older sister|(min) storasyster|[姉]は歌が上手です。|My older sister is good at singing.|Min storasyster är bra på att sjunga.
+N5|弟|おとうと|n|(my) younger brother|(min) lillebror|[弟]はまだ高校生です。|My younger brother is still a high school student.|Min lillebror går fortfarande på gymnasiet.
+N5|妹|いもうと|n|(my) younger sister|(min) lillasyster|[妹]と一緒に買い物に行きました。|I went shopping with my younger sister.|Jag gick och handlade med min lillasyster.
+N5|名前|なまえ|n|name|namn|ここにお[名前]を書いてください。|Please write your name here.|Skriv ditt namn här, tack.
+N5|言葉|ことば|n|word; language|ord; språk|この[言葉]はどういう意味ですか。|What does this word mean?|Vad betyder det här ordet?
+N5|時間|じかん|n|time; hour|tid; timme|今日は[時間]がありません。|I don't have time today.|Jag har inte tid idag.
+N5|お金|おかね|n|money|pengar|今、[お金]があまりありません。|I don't have much money right now.|Jag har inte så mycket pengar just nu.
+N5|休み|やすみ|n|holiday; day off; break|ledighet; lov; rast|明日は学校が[休み]です。|There's no school tomorrow.|Det är ingen skola imorgon.
+N5|誕生日|たんじょうび|n|birthday|födelsedag|[誕生日]はいつですか。|When is your birthday?|När fyller du år?
+N5|今日|きょう|n|today|idag|[今日]は何曜日ですか。|What day of the week is it today?|Vilken veckodag är det idag?
+N5|明日|あした|n|tomorrow|imorgon|[明日]、また来ます。|I'll come again tomorrow.|Jag kommer igen imorgon.

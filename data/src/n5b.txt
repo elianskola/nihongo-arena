@@ -1,0 +1,128 @@
+N5|昨日|きのう|n|yesterday|igår|[昨日]は雨でした。|It rained yesterday.|Det regnade igår.
+N5|毎日|まいにち|n|every day|varje dag|[毎日]日本語を勉強しています。|I study Japanese every day.|Jag pluggar japanska varje dag.
+N5|今朝|けさ|n|this morning|i morse|[今朝]は六時に起きました。|I got up at six this morning.|Jag gick upp klockan sex i morse.
+N5|今晩|こんばん|n|this evening; tonight|ikväll|[今晩]、電話してもいいですか。|May I call you tonight?|Får jag ringa dig ikväll?
+N5|夏|なつ|n|summer|sommar|日本の[夏]はとても暑いです。|Summer in Japan is very hot.|Sommaren i Japan är väldigt varm.
+N5|冬|ふゆ|n|winter|vinter|スウェーデンの[冬]は長いです。|Winter in Sweden is long.|Vintern i Sverige är lång.
+N5|春|はる|n|spring|vår|[春]になると桜が咲きます。|When spring comes, the cherry blossoms bloom.|När våren kommer blommar körsbärsträden.
+N5|秋|あき|n|autumn|höst|[秋]は涼しくて好きです。|I like autumn because it's cool.|Jag gillar hösten för att den är sval.
+N5|服|ふく|n|clothes|kläder|新しい[服]を買いたいです。|I want to buy new clothes.|Jag vill köpa nya kläder.
+N5|靴|くつ|n|shoes|skor|日本の家では[靴]を脱ぎます。|You take off your shoes in Japanese houses.|I japanska hem tar man av sig skorna.
+N5|傘|かさ|n|umbrella|paraply|雨ですから、[傘]を持って行ってください。|It's raining, so please take an umbrella.|Det regnar, så ta med ett paraply.
+N5|鞄|かばん|n|bag|väska|この[鞄]はとても重いです。|This bag is very heavy.|Den här väskan är väldigt tung.
+N5|時計|とけい|n|watch; clock|klocka|兄に[時計]をもらいました。|I got a watch from my older brother.|Jag fick en klocka av min storebror.
+N5|切手|きって|n|postage stamp|frimärke|この手紙に[切手]をはってください。|Please put a stamp on this letter.|Sätt ett frimärke på det här brevet, tack.
+N5|荷物|にもつ|n|luggage; package|bagage; paket|[荷物]が多くて大変です。|I have so much luggage, it's tough.|Jag har så mycket bagage, det är jobbigt.
+N5|頭|あたま|n|head|huvud|朝から[頭]が痛いです。|I've had a headache since morning.|Jag har haft ont i huvudet sedan i morse.
+N5|目|め|n|eye|öga|彼女は[目]が大きいです。|She has big eyes.|Hon har stora ögon.
+N5|耳|みみ|n|ear|öra|うさぎは[耳]が長いです。|Rabbits have long ears.|Kaniner har långa öron.
+N5|口|くち|n|mouth|mun|[口]を大きく開けてください。|Please open your mouth wide.|Gapa stort, tack.
+N5|手|て|n|hand|hand|[手]が冷たいです。|My hands are cold.|Mina händer är kalla.
+N5|足|あし|n|foot; leg|fot; ben|たくさん歩いたので[足]が痛いです。|My feet hurt because I walked a lot.|Mina fötter gör ont för att jag gick mycket.
+N5|体|からだ|n|body|kropp|運動は[体]にいいです。|Exercise is good for your body.|Motion är bra för kroppen.
+N5|病気|びょうき|n|illness|sjukdom|祖母は[病気]で入院しています。|My grandmother is in hospital with an illness.|Min mormor ligger på sjukhus för att hon är sjuk.
+N5|薬|くすり|n|medicine|medicin|この[薬]を一日三回飲んでください。|Please take this medicine three times a day.|Ta den här medicinen tre gånger om dagen.
+N5|大きい|おおきい|adj|big|stor|あの[大きい]建物は何ですか。|What is that big building?|Vad är den där stora byggnaden?
+N5|小さい|ちいさい|adj|small|liten|この部屋は[小さい]です。|This room is small.|Det här rummet är litet.
+N5|新しい|あたらしい|adj|new|ny|[新しい]携帯電話を買いました。|I bought a new mobile phone.|Jag köpte en ny mobiltelefon.
+N5|古い|ふるい|adj|old (things)|gammal (sak)|この寺はとても[古い]です。|This temple is very old.|Det här templet är väldigt gammalt.
+N5|高い|たかい|adj|expensive; tall; high|dyr; hög|東京のホテルは[高い]です。|Hotels in Tokyo are expensive.|Hotellen i Tokyo är dyra.
+N5|安い|やすい|adj|cheap|billig|この店の野菜は[安い]です。|The vegetables at this shop are cheap.|Grönsakerna i den här affären är billiga.
+N5|低い|ひくい|adj|low; short|låg; kort|弟は私より背が[低い]です。|My younger brother is shorter than me.|Min lillebror är kortare än jag.
+N5|長い|ながい|adj|long|lång|この川はとても[長い]です。|This river is very long.|Den här floden är väldigt lång.
+N5|短い|みじかい|adj|short|kort|夏休みは[短かった]です。|Summer vacation was short.|Sommarlovet var kort.
+N5|暑い|あつい|adj|hot (weather)|varm (väder)|今日は本当に[暑い]ですね。|It's really hot today, isn't it?|Det är verkligen varmt idag, eller hur?
+N5|寒い|さむい|adj|cold (weather)|kall (väder)|外はとても[寒い]です。|It's very cold outside.|Det är väldigt kallt ute.
+N5|暖かい|あたたかい|adj|warm|varm; ljum|今日は[暖かい]ので、散歩しましょう。|It's warm today, so let's take a walk.|Det är varmt idag, så låt oss ta en promenad.
+N5|涼しい|すずしい|adj|cool (pleasant)|sval|山の上は[涼しい]です。|It's cool on top of the mountain.|Det är svalt uppe på berget.
+N5|冷たい|つめたい|adj|cold (to the touch)|kall (vid beröring)|[冷たい]ジュースが飲みたいです。|I want to drink a cold juice.|Jag vill dricka en kall juice.
+N5|熱い|あつい|adj|hot (to the touch)|het; varm|このスープはとても[熱い]です。|This soup is very hot.|Den här soppan är väldigt het.
+N5|面白い|おもしろい|adj|interesting; funny|intressant; rolig|昨日見た映画は[面白かった]です。|The movie I saw yesterday was interesting.|Filmen jag såg igår var rolig.
+N5|楽しい|たのしい|adj|fun; enjoyable|rolig; trevlig|旅行はとても[楽しかった]です。|The trip was a lot of fun.|Resan var jätterolig.
+N5|難しい|むずかしい|adj|difficult|svår|漢字は[難しい]けど、面白いです。|Kanji is difficult but interesting.|Kanji är svårt men intressant.
+N5|易しい|やさしい|adj|easy|lätt; enkel|今日のテストは[易しかった]です。|Today's test was easy.|Dagens prov var lätt.
+N5|忙しい|いそがしい|adj|busy|upptagen; stressig|今週は仕事が[忙しい]です。|I'm busy with work this week.|Jag har mycket på jobbet den här veckan.
+N5|おいしい|おいしい|adj|delicious|god; gott|母の料理はとても[おいしい]です。|My mother's cooking is very delicious.|Min mammas mat är jättegod.
+N5|まずい|まずい|adj|bad-tasting|äcklig; dålig (smak)|このコーヒーは[まずい]です。|This coffee tastes bad.|Det här kaffet smakar illa.
+N5|多い|おおい|adj|many; a lot|många; mycket|東京は人が[多い]です。|Tokyo has a lot of people.|Det är mycket folk i Tokyo.
+N5|少ない|すくない|adj|few; little|få; lite|この町は店が[少ない]です。|This town has few shops.|Den här staden har få affärer.
+N5|近い|ちかい|adj|near; close|nära|学校は家から[近い]です。|The school is close to my house.|Skolan ligger nära mitt hus.
+N5|遠い|とおい|adj|far|långt bort|空港は駅から[遠い]です。|The airport is far from the station.|Flygplatsen ligger långt från stationen.
+N5|早い|はやい|adj|early|tidig|祖父は朝が[早い]です。|My grandfather gets up early.|Min farfar är tidigt uppe på morgonen.
+N5|速い|はやい|adj|fast|snabb|新幹線はとても[速い]です。|The bullet train is very fast.|Shinkansen är väldigt snabb.
+N5|重い|おもい|adj|heavy|tung|この箱は[重くて]持てません。|This box is too heavy to carry.|Den här lådan är för tung för att bära.
+N5|軽い|かるい|adj|light (weight)|lätt (vikt)|このパソコンは[軽い]です。|This computer is light.|Den här datorn är lätt.
+N5|明るい|あかるい|adj|bright; cheerful|ljus; glad|この部屋は[明るい]です。|This room is bright.|Det här rummet är ljust.
+N5|暗い|くらい|adj|dark|mörk|冬は五時ごろもう[暗い]です。|In winter it's already dark around five.|På vintern är det redan mörkt vid femtiden.
+N5|広い|ひろい|adj|wide; spacious|rymlig; bred|新しいアパートは[広い]です。|The new apartment is spacious.|Den nya lägenheten är rymlig.
+N5|狭い|せまい|adj|narrow; cramped|trång; smal|この道は[狭い]から気をつけて。|This road is narrow, so be careful.|Den här vägen är smal, så var försiktig.
+N5|強い|つよい|adj|strong|stark|あのチームはとても[強い]です。|That team is very strong.|Det laget är väldigt starkt.
+N5|弱い|よわい|adj|weak|svag|私はお酒に[弱い]です。|I can't hold my alcohol.|Jag tål inte mycket alkohol.
+N5|若い|わかい|adj|young|ung|父は[若い]とき、サッカーをしていました。|My father played soccer when he was young.|Min pappa spelade fotboll när han var ung.
+N5|痛い|いたい|adj|painful; sore|ont; smärtsam|歯が[痛い]です。|I have a toothache.|Jag har tandvärk.
+N5|赤い|あかい|adj|red|röd|[赤い]りんごを三つ買いました。|I bought three red apples.|Jag köpte tre röda äpplen.
+N5|青い|あおい|adj|blue|blå|海が[青くて]きれいです。|The sea is blue and beautiful.|Havet är blått och vackert.
+N5|白い|しろい|adj|white|vit|[白い]シャツを着ています。|I'm wearing a white shirt.|Jag har på mig en vit skjorta.
+N5|黒い|くろい|adj|black|svart|[黒い]猫が窓の外にいます。|There's a black cat outside the window.|Det sitter en svart katt utanför fönstret.
+N5|甘い|あまい|adj|sweet|söt|このケーキは[甘すぎ]ます。|This cake is too sweet.|Den här kakan är för söt.
+N5|好き|すき|na|liked; to like|omtyckt; att gilla|私は猫が[好き]です。|I like cats.|Jag gillar katter.
+N5|嫌い|きらい|na|disliked; to hate|ogillad; att inte tycka om|弟は野菜が[嫌い]です。|My younger brother dislikes vegetables.|Min lillebror tycker inte om grönsaker.
+N5|上手|じょうず|na|skillful; good at|duktig; bra på|田中さんは英語が[上手]です。|Mr. Tanaka is good at English.|Tanaka är duktig på engelska.
+N5|下手|へた|na|unskillful; bad at|dålig på|私は歌が[下手]です。|I'm bad at singing.|Jag är dålig på att sjunga.
+N5|静か|しずか|na|quiet|tyst; lugn|夜の公園は[静か]です。|The park at night is quiet.|Parken är tyst på natten.
+N5|賑やか|にぎやか|na|lively; bustling|livlig|この町は夜も[賑やか]です。|This town is lively even at night.|Den här staden är livlig även på natten.
+N5|有名|ゆうめい|na|famous|berömd; känd|京都は古いお寺で[有名]です。|Kyoto is famous for its old temples.|Kyoto är känt för sina gamla tempel.
+N5|元気|げんき|na|healthy; energetic|pigg; frisk|お[元気]ですか。|How are you?|Hur mår du?
+N5|大切|たいせつ|na|important; precious|viktig; värdefull|家族は一番[大切]です。|Family is the most important thing.|Familjen är det viktigaste.
+N5|大丈夫|だいじょうぶ|na|all right; OK|okej; ingen fara|雨でも[大丈夫]です。|It's fine even if it rains.|Det gör inget om det regnar.
+N5|簡単|かんたん|na|simple; easy|enkel|この料理は[簡単]に作れます。|This dish can be made easily.|Den här rätten är lätt att laga.
+N5|便利|べんり|na|convenient|praktisk; bekväm|駅の近くは[便利]です。|Being near the station is convenient.|Det är praktiskt att bo nära stationen.
+N5|暇|ひま|na|free (time); not busy|ledig; sysslolös|週末は[暇]ですか。|Are you free this weekend?|Är du ledig i helgen?
+N5|綺麗|きれい|na|pretty; clean|vacker; ren|この部屋はいつも[綺麗]ですね。|This room is always clean, isn't it?|Det här rummet är alltid rent, eller hur?
+N5|親切|しんせつ|na|kind|vänlig; snäll|駅員さんはとても[親切]でした。|The station attendant was very kind.|Stationspersonalen var väldigt vänlig.
+N5|色々|いろいろ|na|various|olika; diverse|日本で[色々]な所へ行きました。|I went to various places in Japan.|Jag åkte till många olika ställen i Japan.
+N5|同じ|おなじ|na|same|samma|私と姉は[同じ]学校に行きました。|My older sister and I went to the same school.|Jag och min storasyster gick i samma skola.
+N5|とても|とても|adv|very|väldigt; mycket|この本は[とても]面白いです。|This book is very interesting.|Den här boken är väldigt intressant.
+N5|少し|すこし|adv|a little|lite|日本語が[少し]話せます。|I can speak a little Japanese.|Jag kan prata lite japanska.
+N5|たくさん|たくさん|adv|a lot; many|många; mycket|公園に人が[たくさん]います。|There are a lot of people in the park.|Det är mycket folk i parken.
+N5|もう|もう|adv|already; anymore|redan; inte längre|宿題は[もう]終わりました。|I've already finished my homework.|Jag har redan gjort klart läxan.
+N5|まだ|まだ|adv|still; not yet|ännu; fortfarande|昼ご飯は[まだ]食べていません。|I haven't eaten lunch yet.|Jag har inte ätit lunch än.
+N5|よく|よく|adv|often; well|ofta; bra|週末は[よく]映画を見ます。|I often watch movies on weekends.|Jag ser ofta film på helgerna.
+N5|時々|ときどき|adv|sometimes|ibland|[時々]友達と料理をします。|I sometimes cook with friends.|Ibland lagar jag mat med vänner.
+N5|いつも|いつも|adv|always|alltid|父は[いつも]七時に起きます。|My father always gets up at seven.|Min pappa går alltid upp klockan sju.
+N5|一緒に|いっしょに|adv|together|tillsammans|[一緒に]昼ご飯を食べませんか。|Won't you have lunch together with me?|Ska vi äta lunch tillsammans?
+N5|ちょっと|ちょっと|adv|a little; a moment|lite; ett ögonblick|[ちょっと]待ってください。|Please wait a moment.|Vänta lite, tack.
+N5|すぐ|すぐ|adv|immediately; soon|genast; snart|[すぐ]行きます。|I'll go right away.|Jag kommer direkt.
+N5|ゆっくり|ゆっくり|adv|slowly; leisurely|långsamt; i lugn och ro|もう少し[ゆっくり]話してください。|Please speak a little more slowly.|Prata lite långsammare, tack.
+N5|まっすぐ|まっすぐ|adv|straight|rakt fram|この道を[まっすぐ]行くと駅です。|Go straight along this road and you'll reach the station.|Gå rakt fram längs vägen så kommer du till stationen.
+N5|全然|ぜんぜん|adv|(not) at all|inte alls|お酒は[全然]飲みません。|I don't drink alcohol at all.|Jag dricker inte alkohol alls.
+N5|あまり|あまり|adv|(not) very much|inte så mycket|肉は[あまり]食べません。|I don't eat meat very much.|Jag äter inte så mycket kött.
+N5|また|また|adv|again|igen|[また]来てくださいね。|Please come again.|Kom gärna tillbaka.
+N5|一番|いちばん|adv|most; number one|mest; bäst|果物の中でりんごが[一番]好きです。|Of all fruits, I like apples the most.|Av alla frukter gillar jag äpplen mest.
+N5|多分|たぶん|adv|probably; maybe|förmodligen; kanske|明日は[多分]雨でしょう。|It will probably rain tomorrow.|Det blir förmodligen regn imorgon.
+N5|本当に|ほんとうに|adv|really; truly|verkligen|[本当に]ありがとうございました。|Thank you so very much.|Tack så hemskt mycket.
+N5|大勢|おおぜい|adv|many (people)|många (människor)|駅に人が[大勢]いました。|There were many people at the station.|Det var mycket folk på stationen.
+N5|上|うえ|n|above; on top|ovanpå; upp|テーブルの[上]に本があります。|There is a book on the table.|Det ligger en bok på bordet.
+N5|下|した|n|below; under|under; ner|猫は机の[下]にいます。|The cat is under the desk.|Katten är under skrivbordet.
+N5|前|まえ|n|front; before|framför; före|駅の[前]で待っています。|I'll be waiting in front of the station.|Jag väntar framför stationen.
+N5|後ろ|うしろ|n|behind; back|bakom|私の[後ろ]に誰かいます。|There is someone behind me.|Det står någon bakom mig.
+N5|隣|となり|n|next to; neighbor|bredvid; granne|銀行の[隣]に花屋があります。|There's a flower shop next to the bank.|Det finns en blomsteraffär bredvid banken.
+N5|外|そと|n|outside|ute; utanför|子供たちは[外]で遊んでいます。|The children are playing outside.|Barnen leker ute.
+N5|中|なか|n|inside; middle|inuti; i|かばんの[中]に財布があります。|My wallet is in my bag.|Plånboken ligger i min väska.
+N5|右|みぎ|n|right|höger|次の角を[右]に曲がってください。|Please turn right at the next corner.|Sväng höger i nästa hörn.
+N5|左|ひだり|n|left|vänster|トイレは[左]にあります。|The restroom is on the left.|Toaletten ligger till vänster.
+N5|近く|ちかく|n|vicinity; nearby|närheten|家の[近く]にスーパーがあります。|There's a supermarket near my house.|Det finns en mataffär nära mitt hus.
+N5|国|くに|n|country|land|お[国]はどちらですか。|Which country are you from?|Vilket land kommer du ifrån?
+N5|外国|がいこく|n|foreign country|utlandet|[外国]に住んでみたいです。|I'd like to try living abroad.|Jag skulle vilja prova att bo utomlands.
+N5|言う|いう|v|to say|att säga|もう一度[言って]ください。|Please say it once more.|Säg det en gång till, tack.
+N5|思う|おもう|v|to think|att tro; att tycka|明日は晴れると[思います]。|I think it will be sunny tomorrow.|Jag tror att det blir soligt imorgon.
+N5|ある|ある|v|to exist (things); to have|att finnas; att ha|机の上にペンが[あります]。|There is a pen on the desk.|Det ligger en penna på skrivbordet.
+N5|いる|いる|v|to exist (living things)|att finnas; att vara (levande)|庭に犬が[います]。|There is a dog in the garden.|Det finns en hund i trädgården.
+N5|する|する|v|to do|att göra|週末はテニスを[します]。|I play tennis on weekends.|Jag spelar tennis på helgerna.
+N5|晴れる|はれる|v|to clear up (weather)|att klarna upp|午後から[晴れる]そうです。|Apparently it will clear up from the afternoon.|Det ska tydligen klarna upp på eftermiddagen.
+N5|着る|きる|v|to wear (upper body)|att ha på sig (överkropp)|寒いのでコートを[着ます]。|It's cold, so I'll wear a coat.|Det är kallt, så jag tar på mig en kappa.
+N5|浴びる|あびる|v|to take (a shower)|att duscha|毎朝シャワーを[浴びます]。|I take a shower every morning.|Jag duschar varje morgon.
+N5|並ぶ|ならぶ|v|to line up|att ställa sig i kö|人気の店の前に人が[並んで]います。|People are lined up in front of the popular shop.|Folk står i kö utanför den populära affären.
+N5|頼む|たのむ|v|to request; to order|att be om; att beställa|レストランでピザを[頼みました]。|I ordered pizza at the restaurant.|Jag beställde pizza på restaurangen.
+N5|曲がる|まがる|v|to turn|att svänga|あの角を左に[曲がって]ください。|Please turn left at that corner.|Sväng vänster vid det där hörnet.
+N5|困る|こまる|v|to be in trouble|att ha problem|財布をなくして[困って]います。|I lost my wallet and I'm in trouble.|Jag har tappat plånboken och vet inte vad jag ska göra.

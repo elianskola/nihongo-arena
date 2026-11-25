@@ -1,0 +1,104 @@
+N4|安心|あんしん|n|relief; peace of mind|lättnad; trygghet|無事に着いたと聞いて[安心]しました。|I was relieved to hear you arrived safely.|Jag blev lättad när jag hörde att du kommit fram.
+N4|失敗|しっぱい|n|failure; mistake|misslyckande|[失敗]しても、また頑張ればいいです。|Even if you fail, you can just try again.|Även om du misslyckas kan du bara försöka igen.
+N4|競争|きょうそう|n|competition|tävling; konkurrens|この業界は[競争]が激しいです。|Competition in this industry is fierce.|Konkurrensen i den här branschen är hård.
+N4|招待|しょうたい|n|invitation|inbjudan|友達の結婚式に[招待]されました。|I was invited to a friend's wedding.|Jag blev bjuden till en väns bröllop.
+N4|紹介|しょうかい|n|introduction|presentation|友達を両親に[紹介]しました。|I introduced my friend to my parents.|Jag presenterade min vän för mina föräldrar.
+N4|輸出|ゆしゅつ|n|export|export|日本は車を[輸出]しています。|Japan exports cars.|Japan exporterar bilar.
+N4|会話|かいわ|n|conversation|samtal; konversation|日本語の[会話]の練習をしましょう。|Let's practice Japanese conversation.|Låt oss öva på att prata japanska.
+N4|意見|いけん|n|opinion|åsikt|あなたの[意見]を聞かせてください。|Please let me hear your opinion.|Berätta vad du tycker.
+N4|理由|りゆう|n|reason|anledning|遅れた[理由]を説明してください。|Please explain why you were late.|Förklara varför du kom sent.
+N4|趣味|しゅみ|n|hobby|hobby; intresse|私の[趣味]は写真を撮ることです。|My hobby is taking photos.|Min hobby är att fotografera.
+N4|興味|きょうみ|n|interest|intresse|日本の歴史に[興味]があります。|I'm interested in Japanese history.|Jag är intresserad av japansk historia.
+N4|習慣|しゅうかん|n|custom; habit|vana; sed|早く寝るのはいい[習慣]です。|Going to bed early is a good habit.|Att gå och lägga sig tidigt är en bra vana.
+N4|文化|ぶんか|n|culture|kultur|日本の[文化]を勉強しています。|I'm studying Japanese culture.|Jag studerar japansk kultur.
+N4|世界|せかい|n|world|värld|いつか[世界]中を旅行したいです。|Someday I want to travel all around the world.|En dag vill jag resa jorden runt.
+N4|社会|しゃかい|n|society|samhälle|[社会]のルールを守りましょう。|Let's follow society's rules.|Låt oss följa samhällets regler.
+N4|政治|せいじ|n|politics|politik|父は[政治]のニュースをよく見ます。|My father often watches political news.|Min pappa tittar ofta på politiska nyheter.
+N4|経済|けいざい|n|economy|ekonomi|大学で[経済]を勉強しました。|I studied economics at university.|Jag läste ekonomi på universitetet.
+N4|歴史|れきし|n|history|historia|この町には長い[歴史]があります。|This town has a long history.|Den här staden har en lång historia.
+N4|地震|じしん|n|earthquake|jordbävning|日本は[地震]が多い国です。|Japan is a country with many earthquakes.|Japan är ett land med många jordbävningar.
+N4|台風|たいふう|n|typhoon|tyfon|[台風]で電車が止まりました。|The trains stopped because of the typhoon.|Tågen stannade på grund av tyfonen.
+N4|空気|くうき|n|air|luft|山の[空気]はおいしいです。|The mountain air is fresh.|Luften i bergen är frisk.
+N4|景色|けしき|n|scenery|utsikt; landskap|ここからの[景色]は最高です。|The view from here is the best.|Utsikten härifrån är fantastisk.
+N4|季節|きせつ|n|season|årstid|一番好きな[季節]は秋です。|My favorite season is autumn.|Min favoritårstid är hösten.
+N4|最近|さいきん|n|recently|nyligen; på sistone|[最近]、よく眠れません。|Lately I can't sleep well.|På sistone sover jag dåligt.
+N4|将来|しょうらい|n|future|framtid|[将来]、医者になりたいです。|In the future, I want to become a doctor.|I framtiden vill jag bli läkare.
+N4|昔|むかし|n|long ago; old days|förr i tiden|[昔]、ここに大きな寺がありました。|Long ago there was a big temple here.|Förr i tiden fanns det ett stort tempel här.
+N4|途中|とちゅう|n|on the way; midway|på vägen; halvvägs|学校へ行く[途中]で友達に会いました。|I met a friend on the way to school.|Jag träffade en kompis på vägen till skolan.
+N4|場所|ばしょ|n|place; location|plats; ställe|会議の[場所]はどこですか。|Where is the meeting being held?|Var hålls mötet?
+N4|規則|きそく|n|rule; regulation|regel|学校の[規則]は厳しいです。|The school's rules are strict.|Skolans regler är stränga.
+N4|番組|ばんぐみ|n|(TV) program|program (TV)|この[番組]は毎週見ています。|I watch this program every week.|Jag tittar på det här programmet varje vecka.
+N4|品物|しなもの|n|goods; article|vara|この店はいい[品物]が多いです。|This shop has many good products.|Den här affären har många bra varor.
+N4|お土産|おみやげ|n|souvenir|souvenir|京都で[お土産]を買いました。|I bought souvenirs in Kyoto.|Jag köpte souvenirer i Kyoto.
+N4|財布|さいふ|n|wallet|plånbok|新しい[財布]をもらいました。|I received a new wallet.|Jag fick en ny plånbok.
+N4|鏡|かがみ|n|mirror|spegel|出かける前に[鏡]を見ます。|I look in the mirror before going out.|Jag tittar mig i spegeln innan jag går ut.
+N4|お湯|おゆ|n|hot water|varmt vatten|[お湯]を沸かしてお茶を入れます。|I'll boil water and make tea.|Jag kokar vatten och gör te.
+N4|味|あじ|n|taste; flavor|smak|このスープは[味]が薄いです。|This soup has a weak flavor.|Den här soppan smakar lite.
+N4|匂い|におい|n|smell|lukt; doft|台所からいい[匂い]がします。|There's a nice smell coming from the kitchen.|Det luktar gott från köket.
+N4|声|こえ|n|voice|röst|彼女はきれいな[声]で歌います。|She sings with a beautiful voice.|Hon sjunger med en vacker röst.
+N4|気持ち|きもち|n|feeling|känsla|温泉に入ると[気持ち]がいいです。|It feels good to soak in a hot spring.|Det känns skönt att bada i varma källor.
+N4|気分|きぶん|n|mood; feeling (physical)|humör; känsla|今日は[気分]が悪いです。|I feel unwell today.|Jag mår inte bra idag.
+N4|夢|ゆめ|n|dream|dröm|私の[夢]は歌手になることです。|My dream is to become a singer.|Min dröm är att bli sångare.
+N4|力|ちから|n|strength; power|kraft; styrka|兄は[力]が強いです。|My older brother is strong.|Min storebror är stark.
+N4|髪|かみ|n|hair|hår|姉は[髪]が長いです。|My older sister has long hair.|Min storasyster har långt hår.
+N4|首|くび|n|neck|nacke; hals|パソコンを使いすぎて[首]が痛いです。|My neck hurts from using the computer too much.|Jag har ont i nacken av att sitta för mycket vid datorn.
+N4|指|ゆび|n|finger|finger|料理中に[指]を切りました。|I cut my finger while cooking.|Jag skar mig i fingret när jag lagade mat.
+N4|熱|ねつ|n|fever; heat|feber|[熱]があるので、今日は休みます。|I have a fever, so I'll stay home today.|Jag har feber, så jag stannar hemma idag.
+N4|怪我|けが|n|injury|skada|サッカーで足に[怪我]をしました。|I injured my leg playing soccer.|Jag skadade benet när jag spelade fotboll.
+N4|医者|いしゃ|n|doctor|läkare|[医者]に行ったほうがいいですよ。|You'd better go to the doctor.|Du borde gå till läkaren.
+N4|看護師|かんごし|n|nurse|sjuksköterska|姉は病院で[看護師]をしています。|My older sister works as a nurse at a hospital.|Min storasyster jobbar som sjuksköterska på ett sjukhus.
+N4|警察|けいさつ|n|police|polis|財布を盗まれたので[警察]に行きました。|My wallet was stolen, so I went to the police.|Min plånbok blev stulen, så jag gick till polisen.
+N4|泥棒|どろぼう|n|thief|tjuv|昨夜、隣の家に[泥棒]が入りました。|A thief broke into the house next door last night.|Det var inbrott hos grannen i natt.
+N4|客|きゃく|n|customer; guest|kund; gäst|この店はいつも[客]が多いです。|This shop always has many customers.|Den här affären har alltid många kunder.
+N4|社長|しゃちょう|n|company president|vd; chef|[社長]は今、会議中です。|The president is in a meeting now.|Vd:n sitter i möte just nu.
+N4|部長|ぶちょう|n|department manager|avdelningschef|[部長]に報告書を出しました。|I submitted the report to the department manager.|Jag lämnade rapporten till avdelningschefen.
+N4|恋人|こいびと|n|lover; boyfriend/girlfriend|pojkvän; flickvän|週末は[恋人]とデートします。|I'm going on a date with my partner this weekend.|I helgen ska jag på dejt med min partner.
+N4|夫|おっと|n|(my) husband|(min) man|[夫]は料理が得意です。|My husband is good at cooking.|Min man är bra på att laga mat.
+N4|妻|つま|n|(my) wife|(min) fru|[妻]と一緒に旅行しました。|I traveled together with my wife.|Jag reste tillsammans med min fru.
+N4|赤ちゃん|あかちゃん|n|baby|bebis|[赤ちゃん]が泣いています。|The baby is crying.|Bebisen gråter.
+N4|祖母|そぼ|n|(my) grandmother|(min) mormor/farmor|[祖母]は今年九十歳になります。|My grandmother turns ninety this year.|Min mormor fyller nittio i år.
+N4|美しい|うつくしい|adj|beautiful|vacker|富士山はとても[美しい]です。|Mt. Fuji is very beautiful.|Fuji är väldigt vackert.
+N4|嬉しい|うれしい|adj|happy; glad|glad|合格して本当に[嬉しい]です。|I'm really happy I passed.|Jag är jätteglad att jag klarade det.
+N4|悲しい|かなしい|adj|sad|ledsen|その映画はとても[悲しかった]です。|That movie was very sad.|Den filmen var väldigt sorglig.
+N4|寂しい|さびしい|adj|lonely|ensam|一人で住むのは[寂しい]です。|Living alone is lonely.|Det är ensamt att bo själv.
+N4|恥ずかしい|はずかしい|adj|embarrassing; shy|pinsam; generad|人の前で話すのは[恥ずかしい]です。|Speaking in front of people is embarrassing.|Det är pinsamt att prata inför folk.
+N4|厳しい|きびしい|adj|strict; severe|sträng; hård|私の父はとても[厳しい]です。|My father is very strict.|Min pappa är väldigt sträng.
+N4|優しい|やさしい|adj|kind; gentle|snäll; vänlig|祖母はいつも[優しい]です。|My grandmother is always kind.|Min mormor är alltid snäll.
+N4|珍しい|めずらしい|adj|rare; unusual|ovanlig; sällsynt|この辺りで雪が降るのは[珍しい]です。|It's unusual for snow to fall around here.|Det är ovanligt att det snöar här.
+N4|正しい|ただしい|adj|correct; right|rätt; korrekt|[正しい]答えを選んでください。|Please choose the correct answer.|Välj rätt svar.
+N4|細かい|こまかい|adj|fine; detailed|detaljerad; liten|[細かい]ことは気にしないでください。|Please don't worry about the small details.|Bry dig inte om småsaker.
+N4|深い|ふかい|adj|deep|djup|この湖はとても[深い]です。|This lake is very deep.|Den här sjön är väldigt djup.
+N4|固い|かたい|adj|hard; firm|hård|このパンは[固くて]食べにくいです。|This bread is hard and difficult to eat.|Det här brödet är hårt och svårt att äta.
+N4|柔らかい|やわらかい|adj|soft|mjuk|この肉はとても[柔らかい]です。|This meat is very tender.|Det här köttet är väldigt mört.
+N4|眠い|ねむい|adj|sleepy|sömnig|昨日あまり寝なかったので[眠い]です。|I'm sleepy because I didn't sleep much yesterday.|Jag är trött för att jag inte sov så mycket igår.
+N4|怖い|こわい|adj|scary; afraid|läskig; rädd|[怖い]映画は見たくないです。|I don't want to watch scary movies.|Jag vill inte se läskiga filmer.
+N4|危ない|あぶない|adj|dangerous|farlig|道路で遊ぶのは[危ない]です。|Playing on the road is dangerous.|Det är farligt att leka på vägen.
+N4|苦い|にがい|adj|bitter|bitter|この薬はとても[苦い]です。|This medicine is very bitter.|Den här medicinen är väldigt bitter.
+N4|辛い|からい|adj|spicy|stark (kryddig)|韓国料理は[辛い]ものが多いです。|Korean food has many spicy dishes.|Det koreanska köket har många starka rätter.
+N4|丁寧|ていねい|na|polite; careful|artig; noggrann|店員さんの説明はとても[丁寧]でした。|The clerk's explanation was very polite and careful.|Expeditens förklaring var väldigt noggrann.
+N4|特別|とくべつ|na|special|speciell|今日は[特別]な日です。|Today is a special day.|Idag är en speciell dag.
+N4|必要|ひつよう|na|necessary|nödvändig|旅行にパスポートが[必要]です。|You need a passport to travel.|Man behöver pass för att resa.
+N4|自由|じゆう|na|free; freedom|fri; frihet|週末は[自由]な時間がたくさんあります。|I have a lot of free time on weekends.|Jag har mycket fritid på helgerna.
+N4|残念|ざんねん|na|regrettable; too bad|synd; tråkigt|パーティーに行けなくて[残念]です。|It's a shame I can't go to the party.|Det är synd att jag inte kan gå på festen.
+N4|無理|むり|na|impossible; unreasonable|omöjlig|一日で全部読むのは[無理]です。|It's impossible to read it all in one day.|Det är omöjligt att läsa allt på en dag.
+N4|適当|てきとう|na|suitable; half-hearted|lämplig; slarvig|[適当]な答えはやめてください。|Please stop giving half-hearted answers.|Sluta svara slarvigt.
+N4|熱心|ねっしん|na|enthusiastic; eager|ivrig; engagerad|彼はとても[熱心]な学生です。|He is a very eager student.|Han är en väldigt engagerad student.
+N4|真面目|まじめ|na|serious; diligent|seriös; plikttrogen|弟は[真面目]に勉強しています。|My younger brother studies diligently.|Min lillebror pluggar flitigt.
+N4|複雑|ふくざつ|na|complicated|komplicerad|この問題はとても[複雑]です。|This problem is very complicated.|Det här problemet är väldigt komplicerat.
+N4|安全|あんぜん|na|safe; safety|säker; säkerhet|この町は夜も[安全]です。|This town is safe even at night.|Den här staden är säker även på natten.
+N4|十分|じゅうぶん|na|enough; sufficient|tillräcklig|時間は[十分]あります。|There's enough time.|Det finns gott om tid.
+N4|急に|きゅうに|adv|suddenly|plötsligt|[急に]雨が降ってきました。|It suddenly started raining.|Det började plötsligt regna.
+N4|必ず|かならず|adv|without fail; always|absolut; utan undantag|明日は[必ず]来てください。|Please be sure to come tomorrow.|Kom absolut imorgon.
+N4|きっと|きっと|adv|surely; certainly|säkert; garanterat|[きっと]合格できますよ。|You'll surely pass.|Du kommer säkert att klara det.
+N4|やっと|やっと|adv|finally; at last|äntligen|[やっと]宿題が終わりました。|I finally finished my homework.|Äntligen är läxan klar.
+N4|なかなか|なかなか|adv|quite; (not) easily|ganska; (inte) lätt|この問題は[なかなか]難しいです。|This problem is quite difficult.|Det här problemet är ganska svårt.
+N4|だんだん|だんだん|adv|gradually|gradvis; mer och mer|[だんだん]寒くなってきました。|It's gradually getting colder.|Det blir kallare och kallare.
+N4|しっかり|しっかり|adv|firmly; properly|ordentligt; stadigt|朝ご飯は[しっかり]食べましょう。|Let's eat a proper breakfast.|Låt oss äta en ordentlig frukost.
+N4|はっきり|はっきり|adv|clearly|tydligt|もう少し[はっきり]話してください。|Please speak a little more clearly.|Prata lite tydligare, tack.
+N4|びっくり|びっくり|adv|surprised; startled|förvånad; förskräckt|大きな音に[びっくり]しました。|I was startled by the loud noise.|Jag blev rädd av det höga ljudet.
+N4|ほとんど|ほとんど|adv|almost; mostly|nästan; för det mesta|宿題は[ほとんど]終わりました。|I've almost finished my homework.|Jag är nästan klar med läxan.
+N4|特に|とくに|adv|especially|särskilt|日本料理の中で[特に]寿司が好きです。|Among Japanese foods, I especially like sushi.|Av japansk mat gillar jag särskilt sushi.
+N4|もし|もし|adv|if; in case|om|[もし]雨が降ったら、家にいます。|If it rains, I'll stay home.|Om det regnar stannar jag hemma.
+N4|例えば|たとえば|adv|for example|till exempel|[例えば]、どんな料理が好きですか。|For example, what kind of food do you like?|Till exempel, vilken mat gillar du?
+N4|全部|ぜんぶ|n|all; everything|allt|ケーキを[全部]食べてしまいました。|I ate the whole cake.|Jag åt upp hela tårtan.
+N4|久しぶり|ひさしぶり|na|after a long time|länge sedan|[久しぶり]に友達に会いました。|I met a friend for the first time in a long while.|Jag träffade en kompis för första gången på länge.

@@ -1,0 +1,124 @@
+N4|集める|あつめる|v|to collect; to gather|att samla|子供のころ、切手を[集めて]いました。|I collected stamps as a child.|Jag samlade på frimärken som barn.
+N4|集まる|あつまる|v|to gather (intr.)|att samlas|駅の前に人が[集まって]います。|People are gathering in front of the station.|Folk samlas framför stationen.
+N4|謝る|あやまる|v|to apologize|att be om ursäkt|遅れたので先生に[謝りました]。|I apologized to the teacher for being late.|Jag bad läraren om ursäkt för att jag var sen.
+N4|急ぐ|いそぐ|v|to hurry|att skynda sig|時間がないから[急いで]ください。|There's no time, so please hurry.|Vi har ont om tid, så skynda dig.
+N4|祈る|いのる|v|to pray; to wish|att be; att önska|試験の合格を[祈って]います。|I'm praying that you pass the exam.|Jag håller tummarna för att du klarar provet.
+N4|植える|うえる|v|to plant|att plantera|庭に木を[植えました]。|I planted a tree in the garden.|Jag planterade ett träd i trädgården.
+N4|受ける|うける|v|to take (an exam); to receive|att göra (prov); att ta emot|来年、日本語の試験を[受けます]。|I'll take the Japanese exam next year.|Jag ska skriva japanskaprovet nästa år.
+N4|動く|うごく|v|to move; to work (machine)|att röra sig; att fungera|このパソコンは[動きません]。|This computer doesn't work.|Den här datorn fungerar inte.
+N4|写す|うつす|v|to copy; to photograph|att kopiera; att skriva av|友達のノートを[写しました]。|I copied my friend's notes.|Jag skrev av min kompis anteckningar.
+N4|選ぶ|えらぶ|v|to choose|att välja|好きな色を[選んで]ください。|Please choose a color you like.|Välj en färg du gillar.
+N4|送る|おくる|v|to send|att skicka|母にメールを[送りました]。|I sent an email to my mother.|Jag skickade ett mejl till min mamma.
+N4|遅れる|おくれる|v|to be late|att bli försenad|電車が十分[遅れました]。|The train was ten minutes late.|Tåget var tio minuter försenat.
+N4|起こす|おこす|v|to wake (someone) up|att väcka|明日の朝六時に[起こして]ください。|Please wake me up at six tomorrow morning.|Väck mig klockan sex imorgon bitti, tack.
+N4|怒る|おこる|v|to get angry|att bli arg|父はめったに[怒りません]。|My father rarely gets angry.|Min pappa blir sällan arg.
+N4|落ちる|おちる|v|to fall; to fail (exam)|att falla; att kugga|木から葉が[落ちて]います。|Leaves are falling from the trees.|Löven faller från träden.
+N4|落とす|おとす|v|to drop; to lose|att tappa|どこかで財布を[落としました]。|I dropped my wallet somewhere.|Jag tappade plånboken någonstans.
+N4|驚く|おどろく|v|to be surprised|att bli förvånad|そのニュースを聞いて[驚きました]。|I was surprised to hear the news.|Jag blev förvånad när jag hörde nyheten.
+N4|踊る|おどる|v|to dance|att dansa|パーティーでみんなと[踊りました]。|I danced with everyone at the party.|Jag dansade med alla på festen.
+N4|思い出す|おもいだす|v|to remember; to recall|att komma ihåg; att minnas|この歌を聞くと子供のころを[思い出します]。|When I hear this song, I remember my childhood.|När jag hör den här låten minns jag min barndom.
+N4|折る|おる|v|to break; to fold|att bryta; att vika|スキーで足の骨を[折りました]。|I broke my leg skiing.|Jag bröt benet när jag åkte skidor.
+N4|終わる|おわる|v|to end; to finish|att ta slut; att sluta|会議は五時に[終わります]。|The meeting ends at five.|Mötet slutar klockan fem.
+N4|変える|かえる|v|to change (tr.)|att ändra; att byta|髪型を[変えました]。|I changed my hairstyle.|Jag bytte frisyr.
+N4|変わる|かわる|v|to change (intr.)|att förändras|この町はずいぶん[変わりました]。|This town has changed a lot.|Den här staden har förändrats mycket.
+N4|飾る|かざる|v|to decorate|att dekorera; att pryda|部屋に花を[飾りました]。|I decorated the room with flowers.|Jag pyntade rummet med blommor.
+N4|勝つ|かつ|v|to win|att vinna|昨日の試合は私たちのチームが[勝ちました]。|Our team won yesterday's match.|Vårt lag vann gårdagens match.
+N4|負ける|まける|v|to lose (a game)|att förlora|残念ですが、試合に[負けました]。|Unfortunately, we lost the match.|Tyvärr förlorade vi matchen.
+N4|考える|かんがえる|v|to think about; to consider|att fundera; att tänka|将来のことをよく[考えて]ください。|Please think carefully about your future.|Tänk noga på din framtid.
+N4|頑張る|がんばる|v|to do one's best|att kämpa; att ge allt|試験のために[頑張って]います。|I'm working hard for the exam.|Jag kämpar inför provet.
+N4|聞こえる|きこえる|v|to be audible|att höras|隣の部屋から音楽が[聞こえます]。|I can hear music from the next room.|Det hörs musik från rummet bredvid.
+N4|見える|みえる|v|to be visible|att synas|晴れた日は富士山が[見えます]。|On clear days you can see Mt. Fuji.|En klar dag kan man se Fuji.
+N4|決める|きめる|v|to decide|att bestämma|旅行の日を[決めました]。|I decided the date of the trip.|Jag bestämde datum för resan.
+N4|比べる|くらべる|v|to compare|att jämföra|去年と[比べて]、今年は暑いです。|Compared to last year, this year is hot.|Jämfört med förra året är det varmt i år.
+N4|暮れる|くれる|v|to get dark|att skymma|冬は早く日が[暮れます]。|In winter the sun sets early.|På vintern blir det mörkt tidigt.
+N4|壊れる|こわれる|v|to break (intr.)|att gå sönder|テレビが[壊れて]しまいました。|The TV broke.|Teven gick sönder.
+N4|壊す|こわす|v|to break (tr.)|att ha sönder|弟がおもちゃを[壊しました]。|My younger brother broke the toy.|Min lillebror hade sönder leksaken.
+N4|探す|さがす|v|to look for|att leta efter|新しいアパートを[探して]います。|I'm looking for a new apartment.|Jag letar efter en ny lägenhet.
+N4|下げる|さげる|v|to lower|att sänka|エアコンの温度を[下げて]ください。|Please lower the air conditioner temperature.|Sänk temperaturen på luftkonditioneringen, tack.
+N4|上げる|あげる|v|to raise; to give|att höja; att ge|分かった人は手を[上げて]ください。|If you understand, please raise your hand.|Räck upp handen om du förstår.
+N4|騒ぐ|さわぐ|v|to make noise|att väsnas; att stoja|夜は外で[騒がないで]ください。|Please don't make noise outside at night.|Väsnas inte utomhus på kvällen, tack.
+N4|触る|さわる|v|to touch|att röra vid|作品に[触らないで]ください。|Please don't touch the artwork.|Rör inte konstverket, tack.
+N4|叱る|しかる|v|to scold|att skälla på; att tillrättavisa|宿題を忘れて先生に[叱られました]。|I was scolded by the teacher for forgetting my homework.|Jag fick skäll av läraren för att jag glömde läxan.
+N4|調べる|しらべる|v|to investigate; to look up|att undersöka; att slå upp|インターネットで店の場所を[調べました]。|I looked up the shop's location online.|Jag kollade upp var affären ligger på nätet.
+N4|知らせる|しらせる|v|to notify|att meddela|結果が出たら[知らせて]ください。|Please let me know when the results are out.|Meddela mig när resultatet kommer.
+N4|捨てる|すてる|v|to throw away|att slänga|ゴミはここに[捨てて]ください。|Please throw your garbage away here.|Släng skräpet här, tack.
+N4|滑る|すべる|v|to slip; to slide|att halka; att glida|雪の道で[滑って]転びました。|I slipped on the snowy road and fell.|Jag halkade på den snöiga vägen och ramlade.
+N4|育てる|そだてる|v|to raise; to grow|att uppfostra; att odla|母は三人の子供を[育てました]。|My mother raised three children.|Min mamma uppfostrade tre barn.
+N4|倒れる|たおれる|v|to fall down; to collapse|att falla omkull; att kollapsa|台風で木が[倒れました]。|A tree fell in the typhoon.|Ett träd föll omkull i tyfonen.
+N4|足りる|たりる|v|to be enough|att räcka|お金が[足りません]。|I don't have enough money.|Pengarna räcker inte.
+N4|建てる|たてる|v|to build|att bygga|祖父がこの家を[建てました]。|My grandfather built this house.|Min farfar byggde det här huset.
+N4|捕まえる|つかまえる|v|to catch|att fånga|警察が泥棒を[捕まえました]。|The police caught the thief.|Polisen grep tjuven.
+N4|付ける|つける|v|to turn on; to attach|att sätta på; att fästa|暗いので電気を[付けて]ください。|It's dark, so please turn on the light.|Det är mörkt, så tänd lampan, tack.
+N4|消す|けす|v|to turn off; to erase|att släcka; att sudda ut|寝る前にテレビを[消して]ください。|Please turn off the TV before going to bed.|Stäng av teven innan du går och lägger dig.
+N4|伝える|つたえる|v|to convey; to tell|att framföra; att meddela|お母さんによろしく[伝えて]ください。|Please give my regards to your mother.|Hälsa din mamma från mig.
+N4|続ける|つづける|v|to continue (tr.)|att fortsätta|毎日日本語の勉強を[続けて]います。|I'm continuing to study Japanese every day.|Jag fortsätter plugga japanska varje dag.
+N4|包む|つつむ|v|to wrap|att slå in|プレゼントをきれいな紙で[包みました]。|I wrapped the present in pretty paper.|Jag slog in presenten i fint papper.
+N4|勤める|つとめる|v|to work for; to be employed|att vara anställd|兄は銀行に[勤めて]います。|My older brother works for a bank.|Min storebror är anställd på en bank.
+N4|連れる|つれる|v|to take (someone) along|att ta med (någon)|子供を動物園に[連れて]行きました。|I took my child to the zoo.|Jag tog med mitt barn till djurparken.
+N4|手伝う|てつだう|v|to help|att hjälpa till|母の料理を[手伝いました]。|I helped my mother with the cooking.|Jag hjälpte min mamma att laga mat.
+N4|通る|とおる|v|to pass through|att passera; att gå förbi|毎日この道を[通って]学校へ行きます。|I take this road to school every day.|Jag går den här vägen till skolan varje dag.
+N4|届ける|とどける|v|to deliver|att leverera; att lämna in|拾った財布を交番に[届けました]。|I took the wallet I found to the police box.|Jag lämnade in plånboken jag hittade till polisen.
+N4|止める|とめる|v|to stop (tr.); to park|att stoppa; att parkera|ここに車を[止めないで]ください。|Please don't park your car here.|Parkera inte bilen här, tack.
+N4|直す|なおす|v|to fix; to correct|att laga; att rätta|先生が私の作文を[直して]くれました。|The teacher corrected my essay.|Läraren rättade min uppsats.
+N4|治る|なおる|v|to get well; to heal|att bli frisk; att läka|風邪はもう[治りました]。|My cold has already gotten better.|Förkylningen har redan gått över.
+N4|泣く|なく|v|to cry|att gråta|映画を見て[泣きました]。|I cried watching the movie.|Jag grät när jag såg filmen.
+N4|無くす|なくす|v|to lose (something)|att tappa bort|かぎを[無くして]しまいました。|I've lost my key.|Jag har tappat bort nyckeln.
+N4|投げる|なげる|v|to throw|att kasta|ボールを[投げて]ください。|Please throw the ball.|Kasta bollen, tack.
+N4|慣れる|なれる|v|to get used to|att vänja sig|日本の生活にもう[慣れました]。|I've already gotten used to life in Japan.|Jag har redan vant mig vid livet i Japan.
+N4|似る|にる|v|to resemble|att likna|私は母に[似て]いると言われます。|People say I resemble my mother.|Folk säger att jag liknar min mamma.
+N4|逃げる|にげる|v|to run away; to escape|att fly; att rymma|猫が家から[逃げました]。|The cat ran away from home.|Katten rymde hemifrån.
+N4|脱ぐ|ぬぐ|v|to take off (clothes)|att ta av sig|ここで靴を[脱いで]ください。|Please take off your shoes here.|Ta av dig skorna här, tack.
+N4|盗む|ぬすむ|v|to steal|att stjäla|電車で財布を[盗まれました]。|My wallet was stolen on the train.|Min plånbok blev stulen på tåget.
+N4|塗る|ぬる|v|to paint; to apply|att måla; att smörja|パンにバターを[塗ります]。|I spread butter on bread.|Jag brer smör på brödet.
+N4|眠る|ねむる|v|to sleep|att sova|赤ちゃんがよく[眠って]います。|The baby is sleeping soundly.|Bebisen sover gott.
+N4|残る|のこる|v|to remain|att bli kvar|冷蔵庫にケーキが一つ[残って]います。|There's one piece of cake left in the fridge.|Det finns en bit tårta kvar i kylen.
+N4|運ぶ|はこぶ|v|to carry; to transport|att bära; att transportera|この荷物を二階へ[運んで]ください。|Please carry this luggage upstairs.|Bär upp det här bagaget till andra våningen.
+N4|始める|はじめる|v|to begin (tr.)|att börja (med)|去年からピアノを[始めました]。|I started piano last year.|Jag började spela piano förra året.
+N4|払い戻す|はらいもどす|v|to refund|att återbetala|チケットのお金を[払い戻して]もらいました。|I got a refund for the ticket.|Jag fick tillbaka pengarna för biljetten.
+N4|冷える|ひえる|v|to grow cold|att bli kall; att kylas|ビールがよく[冷えて]います。|The beer is nicely chilled.|Ölen är ordentligt kall.
+N4|光る|ひかる|v|to shine|att lysa; att glänsa|夜空に星が[光って]います。|Stars are shining in the night sky.|Stjärnorna lyser på natthimlen.
+N4|引っ越す|ひっこす|v|to move (house)|att flytta|来月、大阪に[引っ越します]。|I'm moving to Osaka next month.|Jag flyttar till Osaka nästa månad.
+N4|拾う|ひろう|v|to pick up|att plocka upp|道で百円を[拾いました]。|I picked up 100 yen on the street.|Jag hittade hundra yen på gatan.
+N4|増える|ふえる|v|to increase|att öka|最近、外国人の観光客が[増えました]。|Recently foreign tourists have increased.|Antalet utländska turister har ökat på senare tid.
+N4|減る|へる|v|to decrease|att minska|この村の人口は[減って]います。|The population of this village is decreasing.|Befolkningen i den här byn minskar.
+N4|太る|ふとる|v|to gain weight|att gå upp i vikt|冬休みに三キロ[太りました]。|I gained three kilos over winter break.|Jag gick upp tre kilo under vinterlovet.
+N4|痩せる|やせる|v|to lose weight|att gå ner i vikt|運動して五キロ[痩せました]。|I lost five kilos by exercising.|Jag gick ner fem kilo genom att träna.
+N4|褒める|ほめる|v|to praise|att berömma|先生に作文を[褒められました]。|The teacher praised my essay.|Läraren berömde min uppsats.
+N4|間に合う|まにあう|v|to be in time|att hinna|走ったので電車に[間に合いました]。|I ran, so I made it in time for the train.|Jag sprang, så jag hann med tåget.
+N4|守る|まもる|v|to protect; to keep (a promise)|att skydda; att hålla (löfte)|約束は必ず[守ります]。|I always keep my promises.|Jag håller alltid mina löften.
+N4|迷う|まよう|v|to get lost; to hesitate|att gå vilse; att tveka|初めての町で道に[迷いました]。|I got lost in a town I'd never been to.|Jag gick vilse i en stad jag aldrig varit i.
+N4|回る|まわる|v|to go around|att snurra; att gå runt|一日で京都のお寺を[回りました]。|I went around Kyoto's temples in one day.|Jag besökte Kyotos tempel på en dag.
+N4|見つける|みつける|v|to find|att hitta|いいレストランを[見つけました]。|I found a good restaurant.|Jag hittade en bra restaurang.
+N4|迎える|むかえる|v|to meet; to welcome|att möta; att välkomna|空港へ友達を[迎え]に行きます。|I'm going to the airport to pick up a friend.|Jag åker till flygplatsen för att möta en vän.
+N4|向かう|むかう|v|to head towards|att bege sig mot|今、駅に[向かって]います。|I'm heading to the station now.|Jag är på väg till stationen nu.
+N4|戻る|もどる|v|to return; to go back|att komma tillbaka|すぐ席に[戻ります]。|I'll be right back to my seat.|Jag är strax tillbaka vid min plats.
+N4|貰う|もらう|v|to receive|att få|誕生日に花を[もらいました]。|I received flowers on my birthday.|Jag fick blommor på min födelsedag.
+N4|焼く|やく|v|to grill; to bake|att grilla; att baka|週末にケーキを[焼きました]。|I baked a cake on the weekend.|Jag bakade en tårta i helgen.
+N4|約束|やくそく|n|promise; appointment|löfte; avtalad träff|友達と会う[約束]があります。|I have plans to meet a friend.|Jag har bestämt att träffa en kompis.
+N4|止む|やむ|v|to stop (rain etc.)|att upphöra (regn)|やっと雨が[止みました]。|The rain finally stopped.|Äntligen slutade det regna.
+N4|辞める|やめる|v|to quit|att sluta (jobb)|兄は会社を[辞めました]。|My older brother quit his company.|Min storebror slutade på sitt jobb.
+N4|揺れる|ゆれる|v|to shake; to sway|att skaka; att gunga|地震で家が[揺れました]。|The house shook in the earthquake.|Huset skakade vid jordbävningen.
+N4|汚れる|よごれる|v|to get dirty|att bli smutsig|シャツがカレーで[汚れました]。|My shirt got dirty with curry.|Skjortan blev smutsig av curry.
+N4|喜ぶ|よろこぶ|v|to be glad|att bli glad|プレゼントをあげたら、妹はとても[喜びました]。|My little sister was very happy when I gave her the present.|Min lillasyster blev jätteglad när jag gav henne presenten.
+N4|沸く|わく|v|to boil (intr.)|att koka|お湯が[沸きました]。|The water has boiled.|Vattnet kokar.
+N4|分ける|わける|v|to divide; to share|att dela|ケーキを四つに[分けました]。|I divided the cake into four.|Jag delade tårtan i fyra bitar.
+N4|笑う|わらう|v|to laugh; to smile|att skratta; att le|みんなが彼の話を聞いて[笑いました]。|Everyone laughed at his story.|Alla skrattade åt hans historia.
+N4|割れる|われる|v|to break; to crack|att spricka; att gå i bitar|コップが落ちて[割れました]。|The cup fell and broke.|Glaset föll och gick sönder.
+N4|乾く|かわく|v|to dry|att torka|洗濯物がもう[乾きました]。|The laundry has already dried.|Tvätten har redan torkat.
+N4|空く|すく|v|to become empty|att bli tom|おなかが[空きました]。|I'm hungry.|Jag är hungrig.
+N4|込む|こむ|v|to be crowded|att vara trångt|週末のデパートは[込んで]います。|The department store is crowded on weekends.|Varuhuset är fullt av folk på helgerna.
+N4|片付ける|かたづける|v|to tidy up|att städa undan|遊んだ後はおもちゃを[片付けて]ね。|Put your toys away after playing, okay?|Plocka undan leksakerna när du har lekt klart.
+N4|案内|あんない|n|guidance; showing around|guidning; vägledning|友達に町を[案内]しました。|I showed my friend around town.|Jag visade min vän runt i staden.
+N4|準備|じゅんび|n|preparation|förberedelse|旅行の[準備]はもうできましたか。|Have you finished preparing for the trip?|Har du packat klart inför resan?
+N4|説明|せつめい|n|explanation|förklaring|先生の[説明]はとても分かりやすいです。|The teacher's explanations are very easy to understand.|Lärarens förklaringar är väldigt lätta att förstå.
+N4|相談|そうだん|n|consultation; advice|rådfrågning; samtal|進路について両親に[相談]しました。|I consulted my parents about my future path.|Jag pratade med mina föräldrar om vad jag ska göra framöver.
+N4|心配|しんぱい|n|worry|oro|[心配]しないでください。|Please don't worry.|Oroa dig inte.
+N4|予約|よやく|n|reservation|bokning|レストランを七時に[予約]しました。|I made a restaurant reservation for seven.|Jag bokade bord på restaurangen till klockan sju.
+N4|連絡|れんらく|n|contact|kontakt|着いたら[連絡]してください。|Please contact me when you arrive.|Hör av dig när du är framme.
+N4|経験|けいけん|n|experience|erfarenhet|海外で働いた[経験]があります。|I have experience working abroad.|Jag har erfarenhet av att jobba utomlands.
+N4|練習|れんしゅう|n|practice|övning; träning|毎日ピアノの[練習]をしています。|I practice piano every day.|Jag övar piano varje dag.
+N4|復習|ふくしゅう|n|review (of lessons)|repetition|授業の後で[復習]をしましょう。|Let's review after class.|Låt oss repetera efter lektionen.
+N4|予習|よしゅう|n|preparation (for lessons)|förberedelse (inför lektion)|明日の授業の[予習]をしました。|I prepared for tomorrow's class.|Jag förberedde mig inför morgondagens lektion.
+N4|運転|うんてん|n|driving|körning|父は[運転]が上手です。|My father is a good driver.|Min pappa kör bil bra.
+N4|故障|こしょう|n|breakdown; malfunction|fel; haveri|エレベーターが[故障]しています。|The elevator is out of order.|Hissen är trasig.
+N4|遠慮|えんりょ|n|reserve; holding back|tveksamhet; blygsamhet|[遠慮]しないで、たくさん食べてください。|Don't hold back, please eat a lot.|Var inte blyg, ät så mycket du vill.

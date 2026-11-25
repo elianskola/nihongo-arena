@@ -1,0 +1,102 @@
+N3|影響|えいきょう|n|influence; effect|påverkan; inflytande|テレビは子供に大きな[影響]を与えます。|Television has a big influence on children.|Teve har stor påverkan på barn.
+N3|環境|かんきょう|n|environment|miljö|[環境]を守るためにリサイクルをしています。|I recycle to protect the environment.|Jag återvinner för att skydda miljön.
+N3|関係|かんけい|n|relationship; connection|förhållande; samband|二人はどんな[関係]ですか。|What's the relationship between the two of them?|Vad har de två för relation?
+N3|感謝|かんしゃ|n|gratitude|tacksamhet|皆さんの協力に[感謝]しています。|I'm grateful for everyone's cooperation.|Jag är tacksam för allas samarbete.
+N3|機会|きかい|n|opportunity; chance|tillfälle; chans|日本へ行く[機会]があれば、ぜひ行きたいです。|If I get the chance to go to Japan, I definitely want to.|Om jag får chansen att åka till Japan vill jag absolut det.
+N3|記憶|きおく|n|memory|minne|子供のころの[記憶]はあまりありません。|I don't have many memories from childhood.|Jag har inte så många minnen från barndomen.
+N3|期待|きたい|n|expectation; hope|förväntning|親の[期待]に応えたいです。|I want to live up to my parents' expectations.|Jag vill leva upp till mina föräldrars förväntningar.
+N3|協力|きょうりょく|n|cooperation|samarbete|みんなで[協力]して問題を解決しました。|We solved the problem by cooperating together.|Vi löste problemet genom att samarbeta.
+N3|記録|きろく|n|record|rekord; protokoll|彼は世界[記録]を破りました。|He broke the world record.|Han slog världsrekordet.
+N3|苦労|くろう|n|hardship; trouble|möda; svårigheter|母は[苦労]して私たちを育ててくれました。|My mother raised us through much hardship.|Min mamma uppfostrade oss med stor möda.
+N3|計画|けいかく|n|plan|plan|夏休みの[計画]を立てました。|I made plans for summer vacation.|Jag har planerat sommarlovet.
+N3|結果|けっか|n|result|resultat|試験の[結果]はいつ分かりますか。|When will the exam results be known?|När får man veta provresultatet?
+N3|原因|げんいん|n|cause|orsak|事故の[原因]はまだ分かりません。|The cause of the accident is still unknown.|Orsaken till olyckan är fortfarande okänd.
+N3|効果|こうか|n|effect; efficacy|effekt; verkan|この薬はよく[効果]があります。|This medicine is very effective.|Den här medicinen har bra effekt.
+N3|行動|こうどう|n|action; behavior|handling; beteende|言葉より[行動]が大切です。|Actions matter more than words.|Handling är viktigare än ord.
+N3|交流|こうりゅう|n|exchange; interaction|utbyte; kontakt|留学生との[交流]は楽しいです。|Interacting with exchange students is fun.|Det är roligt att umgås med utbytesstudenter.
+N3|最初|さいしょ|n|first; beginning|första; början|[最初]は日本語がまったく分かりませんでした。|At first I didn't understand Japanese at all.|I början förstod jag ingen japanska alls.
+N3|最後|さいご|n|last; end|sista; slut|映画の[最後]で泣いてしまいました。|I cried at the end of the movie.|Jag grät i slutet av filmen.
+N3|材料|ざいりょう|n|ingredients; materials|ingredienser; material|カレーの[材料]を買いに行きます。|I'm going to buy the ingredients for curry.|Jag ska köpa ingredienser till curry.
+N3|参加|さんか|n|participation|deltagande|マラソン大会に[参加]しました。|I took part in the marathon.|Jag deltog i maratonloppet.
+N3|資格|しかく|n|qualification; license|behörighet; kvalifikation|看護師の[資格]を取りました。|I got my nursing qualification.|Jag tog min sjuksköterskelegitimation.
+N3|時代|じだい|n|era; period|tidsålder; epok|学生[時代]はよく旅行しました。|I traveled a lot in my student days.|Under studietiden reste jag mycket.
+N3|事情|じじょう|n|circumstances|omständigheter|家庭の[事情]で会社を辞めました。|I quit the company due to family circumstances.|Jag slutade på jobbet av familjeskäl.
+N3|自然|しぜん|n|nature|natur|この町は[自然]が豊かです。|This town is rich in nature.|Den här staden har mycket natur.
+N3|自信|じしん|n|confidence|självförtroende|試験には[自信]があります。|I'm confident about the exam.|Jag känner mig säker inför provet.
+N3|失業|しつぎょう|n|unemployment|arbetslöshet|会社が倒産して[失業]しました。|The company went bankrupt and I lost my job.|Företaget gick i konkurs och jag blev arbetslös.
+N3|実際|じっさい|n|reality; actually|verklighet; i själva verket|[実際]にやってみると、簡単でした。|When I actually tried it, it was easy.|När jag faktiskt provade var det enkelt.
+N3|首都|しゅと|n|capital city|huvudstad|スウェーデンの[首都]はストックホルムです。|The capital of Sweden is Stockholm.|Sveriges huvudstad är Stockholm.
+N3|状態|じょうたい|n|condition; state|tillstånd|この車はまだいい[状態]です。|This car is still in good condition.|Den här bilen är fortfarande i bra skick.
+N3|情報|じょうほう|n|information|information|インターネットで[情報]を集めました。|I gathered information on the internet.|Jag samlade information på nätet.
+N3|将棋|しょうぎ|n|shogi (Japanese chess)|shogi (japanskt schack)|祖父と[将棋]をするのが好きです。|I like playing shogi with my grandfather.|Jag gillar att spela shogi med min farfar.
+N3|信号|しんごう|n|traffic light; signal|trafikljus; signal|[信号]が赤のときは渡ってはいけません。|You must not cross when the light is red.|Man får inte gå över när det är rött ljus.
+N3|成功|せいこう|n|success|framgång|努力すれば、きっと[成功]します。|If you make an effort, you'll surely succeed.|Om du anstränger dig lyckas du säkert.
+N3|生活|せいかつ|n|life; daily living|liv; vardag|東京の[生活]にはもう慣れました。|I've already gotten used to life in Tokyo.|Jag har redan vant mig vid livet i Tokyo.
+N3|責任|せきにん|n|responsibility|ansvar|この失敗の[責任]は私にあります。|I am responsible for this failure.|Ansvaret för det här misslyckandet är mitt.
+N3|選手|せんしゅ|n|athlete; player|idrottare; spelare|彼は有名なサッカー[選手]です。|He is a famous soccer player.|Han är en känd fotbollsspelare.
+N3|想像|そうぞう|n|imagination|fantasi; föreställning|十年後の自分を[想像]してみてください。|Try imagining yourself ten years from now.|Försök föreställa dig själv om tio år.
+N3|存在|そんざい|n|existence|existens|宇宙人の[存在]を信じますか。|Do you believe in the existence of aliens?|Tror du att utomjordingar finns?
+N3|態度|たいど|n|attitude; manner|attityd; uppträdande|店員の[態度]が悪かったです。|The clerk's attitude was bad.|Expediten hade en dålig attityd.
+N3|地域|ちいき|n|region; area|område; region|この[地域]は冬に雪が多いです。|This region gets a lot of snow in winter.|Det här området får mycket snö på vintern.
+N3|知識|ちしき|n|knowledge|kunskap|彼は歴史の[知識]が豊富です。|He has extensive knowledge of history.|Han har stora kunskaper i historia.
+N3|注意|ちゅうい|n|caution; attention|försiktighet; uppmärksamhet|車に[注意]して道を渡ってください。|Please watch out for cars when crossing the road.|Se upp för bilar när du går över vägen.
+N3|調子|ちょうし|n|condition; tone|form; kondition|最近、体の[調子]がいいです。|I've been in good physical shape recently.|Jag har varit i bra form på sistone.
+N3|手段|しゅだん|n|means; method|medel; metod|目的のためには[手段]を選びません。|He'll use any means to reach his goal.|Han skyr inga medel för att nå sitt mål.
+N3|伝統|でんとう|n|tradition|tradition|お正月には[伝統]的な料理を食べます。|We eat traditional food at New Year.|Vid nyår äter vi traditionell mat.
+N3|努力|どりょく|n|effort|ansträngning|[努力]すれば、夢は叶います。|If you make an effort, your dreams will come true.|Om du anstränger dig går drömmarna i uppfyllelse.
+N3|内容|ないよう|n|content|innehåll|この本の[内容]は難しいです。|The content of this book is difficult.|Innehållet i den här boken är svårt.
+N3|人気|にんき|n|popularity|popularitet|このレストランは若い人に[人気]があります。|This restaurant is popular with young people.|Den här restaurangen är populär bland unga.
+N3|発見|はっけん|n|discovery|upptäckt|新しい星が[発見]されました。|A new star was discovered.|En ny stjärna har upptäckts.
+N3|発表|はっぴょう|n|announcement; presentation|presentation; tillkännagivande|明日、授業で[発表]をします。|I'm giving a presentation in class tomorrow.|Imorgon ska jag hålla en presentation på lektionen.
+N3|反対|はんたい|n|opposition; opposite|motstånd; motsats|両親は私の留学に[反対]しています。|My parents are against me studying abroad.|Mina föräldrar är emot att jag studerar utomlands.
+N3|被害|ひがい|n|damage; harm|skada|台風で大きな[被害]が出ました。|The typhoon caused great damage.|Tyfonen orsakade stora skador.
+N3|表情|ひょうじょう|n|facial expression|ansiktsuttryck|彼女は嬉しそうな[表情]をしていました。|She had a happy expression.|Hon såg glad ut.
+N3|普段|ふだん|n|usually; ordinarily|vanligtvis|[普段]は自転車で通勤しています。|I usually commute by bicycle.|Jag brukar cykla till jobbet.
+N3|雰囲気|ふんいき|n|atmosphere; mood|stämning; atmosfär|この店は[雰囲気]がいいです。|This shop has a nice atmosphere.|Den här affären har en trevlig stämning.
+N3|平和|へいわ|n|peace|fred|世界の[平和]を願っています。|I wish for world peace.|Jag önskar fred på jorden.
+N3|方法|ほうほう|n|method; way|metod; sätt|いい勉強の[方法]を教えてください。|Please teach me a good way to study.|Lär mig ett bra sätt att plugga.
+N3|目的|もくてき|n|purpose; goal|syfte; mål|旅行の[目的]は何ですか。|What is the purpose of your trip?|Vad är syftet med din resa?
+N3|目標|もくひょう|n|target; goal|mål|今年の[目標]は日本語能力試験の合格です。|This year's goal is to pass the JLPT.|Årets mål är att klara JLPT.
+N3|問題|もんだい|n|problem; question|problem; fråga|この[問題]は難しすぎます。|This problem is too difficult.|Det här problemet är för svårt.
+N3|役割|やくわり|n|role|roll|チームの中での自分の[役割]を考えましょう。|Let's think about our own role in the team.|Låt oss tänka på vår egen roll i laget.
+N3|様子|ようす|n|state; appearance|tillstånd; hur något verkar|子供の[様子]がおかしいです。|The child is acting strangely.|Barnet beter sig konstigt.
+N3|予定|よてい|n|plan; schedule|plan; schema|週末の[予定]はありますか。|Do you have any plans for the weekend?|Har du några planer i helgen?
+N3|利用|りよう|n|use; utilization|användning|図書館を[利用]する人が増えました。|The number of people using the library has increased.|Allt fler använder biblioteket.
+N3|両方|りょうほう|n|both|båda|肉と魚、[両方]好きです。|I like both meat and fish.|Jag gillar både kött och fisk.
+N3|曖昧|あいまい|na|vague; ambiguous|vag; tvetydig|彼の答えはとても[曖昧]でした。|His answer was very vague.|Hans svar var väldigt vagt.
+N3|新た|あらた|na|new; fresh|ny|[新た]な問題が見つかりました。|A new problem was found.|Ett nytt problem upptäcktes.
+N3|意外|いがい|na|unexpected; surprising|oväntad|テストの結果は[意外]によかったです。|The test results were surprisingly good.|Provresultatet var oväntat bra.
+N3|穏やか|おだやか|na|calm; gentle|lugn; mild|今日は海が[穏やか]です。|The sea is calm today.|Havet är lugnt idag.
+N3|確実|かくじつ|na|certain; reliable|säker; pålitlig|この方法が一番[確実]です。|This method is the most reliable.|Den här metoden är den säkraste.
+N3|貴重|きちょう|na|precious; valuable|värdefull|[貴重]な経験をさせていただきました。|I was given a valuable experience.|Jag fick en värdefull erfarenhet.
+N3|正直|しょうじき|na|honest|ärlig|[正直]に話してください。|Please speak honestly.|Var ärlig, tack.
+N3|素直|すなお|na|obedient; honest; straightforward|uppriktig; foglig|彼は[素直]に謝りました。|He apologized sincerely.|Han bad uppriktigt om ursäkt.
+N3|退屈|たいくつ|na|boring; bored|tråkig; uttråkad|この映画は[退屈]でした。|This movie was boring.|Den här filmen var tråkig.
+N3|確か|たしか|na|certain; if I remember right|säker; om jag minns rätt|会議は[確か]三時からです。|If I remember correctly, the meeting is from three.|Om jag minns rätt börjar mötet klockan tre.
+N3|豊か|ゆたか|na|rich; abundant|rik; riklig|この国は[豊か]な自然があります。|This country has abundant nature.|Det här landet har en rik natur.
+N3|苦手|にがて|na|weak at; dislike|dålig på; inte förtjust i|私は数学が[苦手]です。|I'm weak at math.|Jag är dålig på matte.
+N3|得意|とくい|na|good at; strong point|bra på; stark sida|姉は料理が[得意]です。|My older sister is good at cooking.|Min storasyster är duktig på att laga mat.
+N3|鋭い|するどい|adj|sharp; keen|vass; skarp|この包丁はとても[鋭い]です。|This kitchen knife is very sharp.|Den här kniven är väldigt vass.
+N3|詳しい|くわしい|adj|detailed; knowledgeable|detaljerad; kunnig|彼は車に[詳しい]です。|He knows a lot about cars.|Han kan mycket om bilar.
+N3|大人しい|おとなしい|adj|quiet; well-behaved|lugn; snäll|この犬はとても[大人しい]です。|This dog is very docile.|Den här hunden är väldigt lugn.
+N3|悔しい|くやしい|adj|frustrating; vexing|förargligt; bittert|試合に負けて[悔しい]です。|It's frustrating to lose the match.|Det svider att förlora matchen.
+N3|懐かしい|なつかしい|adj|nostalgic; dear|nostalgisk; kär|この写真を見ると[懐かしい]気持ちになります。|Looking at this photo makes me feel nostalgic.|Det här fotot gör mig nostalgisk.
+N3|羨ましい|うらやましい|adj|envious|avundsjuk|海外に住めるなんて[羨ましい]です。|I'm envious that you can live abroad.|Jag är avundsjuk på att du kan bo utomlands.
+N3|激しい|はげしい|adj|violent; intense|häftig; intensiv|昨夜は[激しい]雨が降りました。|There was heavy rain last night.|Det regnade häftigt i natt.
+N3|偉い|えらい|adj|great; admirable|beundransvärd; framstående|毎日勉強して[偉い]ですね。|It's admirable that you study every day.|Vad duktig du är som pluggar varje dag.
+N3|ぜひ|ぜひ|adv|by all means; definitely|absolut; gärna|[ぜひ]一度遊びに来てください。|Please do come visit sometime.|Kom gärna och hälsa på någon gång.
+N3|せっかく|せっかく|adv|with much trouble; specially|när man ändå; med stor möda|[せっかく]来たのに、店は休みでした。|I came all this way, but the shop was closed.|Jag kom hela vägen hit, men affären var stängd.
+N3|とうとう|とうとう|adv|finally; at last|till slut|[とうとう]彼は来ませんでした。|In the end, he never came.|Till slut kom han inte.
+N3|たまたま|たまたま|adv|by chance|av en slump|駅で[たまたま]先生に会いました。|I happened to meet my teacher at the station.|Jag stötte av en slump på min lärare på stationen.
+N3|わざわざ|わざわざ|adv|expressly; going out of one's way|extra; särskilt|[わざわざ]来てくれてありがとう。|Thank you for going out of your way to come.|Tack för att du tog dig hit.
+N3|思わず|おもわず|adv|unintentionally; in spite of oneself|ofrivilligt; utan att tänka|面白くて[思わず]笑ってしまいました。|It was so funny I laughed in spite of myself.|Det var så roligt att jag inte kunde låta bli att skratta.
+N3|相変わらず|あいかわらず|adv|as usual; as ever|som vanligt|彼は[相変わらず]忙しそうです。|He seems busy as usual.|Han verkar upptagen som vanligt.
+N3|一応|いちおう|adv|for the time being; just in case|för säkerhets skull; i alla fall|[一応]傘を持って行きます。|I'll take an umbrella just in case.|Jag tar med ett paraply för säkerhets skull.
+N3|案外|あんがい|adv|unexpectedly|oväntat|試験は[案外]簡単でした。|The exam was unexpectedly easy.|Provet var oväntat lätt.
+N3|結局|けっきょく|adv|after all; in the end|till slut; när allt kommer omkring|[結局]、旅行には行きませんでした。|In the end, I didn't go on the trip.|Till slut åkte jag inte på resan.
+N3|さすが|さすが|adv|as expected (of)|som väntat; typiskt|[さすが]プロの料理人ですね。|Just what you'd expect from a professional chef.|Det märks att du är en proffskock.
+N3|次第に|しだいに|adv|gradually|gradvis|[次第に]空が暗くなってきました。|The sky gradually grew dark.|Himlen mörknade gradvis.
+N3|直接|ちょくせつ|adv|directly|direkt|社長に[直接]話しました。|I spoke directly to the president.|Jag pratade direkt med vd:n.
+N3|偶然|ぐうぜん|adv|by chance; coincidence|av en slump; tillfällighet|[偶然]、昔の友達に会いました。|By chance, I met an old friend.|Av en slump träffade jag en gammal vän.
+N3|突然|とつぜん|adv|suddenly|plötsligt|[突然]電気が消えました。|The lights suddenly went out.|Plötsligt slocknade ljuset.
+N3|まさか|まさか|adv|no way; surely not|det kan inte vara sant; knappast|[まさか]彼が犯人だとは思いませんでした。|I never imagined he was the culprit.|Jag trodde aldrig att han var gärningsmannen.

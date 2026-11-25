@@ -1,0 +1,83 @@
+N3|諦める|あきらめる|v|to give up|att ge upp|夢を[諦めないで]ください。|Please don't give up on your dream.|Ge inte upp din dröm.
+N3|扱う|あつかう|v|to handle; to deal with|att hantera|この荷物は丁寧に[扱って]ください。|Please handle this package with care.|Hantera paketet varsamt.
+N3|表す|あらわす|v|to express; to represent|att uttrycka; att representera|この記号は何を[表して]いますか。|What does this symbol represent?|Vad står den här symbolen för?
+N3|現れる|あらわれる|v|to appear|att dyka upp|急に空に虹が[現れました]。|A rainbow suddenly appeared in the sky.|En regnbåge dök plötsligt upp på himlen.
+N3|生きる|いきる|v|to live|att leva|祖父は百歳まで[生きました]。|My grandfather lived to a hundred.|Min farfar levde tills han var hundra.
+N3|祝う|いわう|v|to celebrate|att fira|家族で父の誕生日を[祝いました]。|We celebrated my father's birthday as a family.|Vi firade pappas födelsedag med familjen.
+N3|疑う|うたがう|v|to doubt; to suspect|att tvivla; att misstänka|彼の話を[疑う]理由はありません。|There's no reason to doubt his story.|Det finns ingen anledning att tvivla på hans historia.
+N3|訴える|うったえる|v|to sue; to appeal|att stämma; att vädja|住民は市に騒音の問題を[訴えました]。|The residents complained to the city about the noise problem.|Invånarna klagade hos kommunen över bullerproblemet.
+N3|追う|おう|v|to chase|att jaga; att följa|警察は犯人を[追って]います。|The police are chasing the culprit.|Polisen jagar gärningsmannen.
+N3|補う|おぎなう|v|to make up for; to supplement|att kompensera; att komplettera|睡眠不足をコーヒーで[補って]います。|I make up for lack of sleep with coffee.|Jag kompenserar sömnbristen med kaffe.
+N3|抑える|おさえる|v|to hold down; to suppress|att hålla tillbaka; att dämpa|怒りを[抑える]のは難しいです。|It's hard to suppress anger.|Det är svårt att hålla tillbaka ilskan.
+N3|劣る|おとる|v|to be inferior|att vara sämre|この製品は品質が[劣って]います。|This product is inferior in quality.|Den här produkten håller sämre kvalitet.
+N3|及ぼす|およぼす|v|to exert (influence)|att utöva (inflytande)|天気は農業に大きな影響を[及ぼします]。|Weather has a big influence on agriculture.|Vädret har stor påverkan på jordbruket.
+N3|抱える|かかえる|v|to hold in arms; to have (problems)|att bära i famnen; att ha (problem)|彼は多くの問題を[抱えて]います。|He has a lot of problems on his hands.|Han har många problem att hantera.
+N3|隠す|かくす|v|to hide|att gömma; att dölja|彼は本当の気持ちを[隠して]います。|He is hiding his true feelings.|Han döljer sina verkliga känslor.
+N3|稼ぐ|かせぐ|v|to earn|att tjäna (pengar)|アルバイトで学費を[稼いで]います。|I'm earning my tuition with a part-time job.|Jag tjänar ihop till studieavgiften med ett extrajobb.
+N3|悲しむ|かなしむ|v|to be sad; to grieve|att sörja|彼の死をみんなが[悲しみました]。|Everyone grieved his death.|Alla sörjde hans död.
+N3|構う|かまう|v|to mind; to care about|att bry sig om|私のことは[構わないで]ください。|Please don't worry about me.|Bry dig inte om mig.
+N3|我慢|がまん|n|patience; endurance|tålamod; uthärdande|痛くても少し[我慢]してください。|Even if it hurts, please bear with it a little.|Även om det gör ont, försök stå ut lite.
+N3|乾杯|かんぱい|n|toast; cheers|skål|新しい仕事に[乾杯]しましょう。|Let's toast to the new job.|Låt oss skåla för det nya jobbet.
+N3|気付く|きづく|v|to notice|att märka|間違いに[気付きました]か。|Did you notice the mistake?|Märkte du felet?
+N3|嫌う|きらう|v|to dislike|att ogilla|猫は水を[嫌います]。|Cats dislike water.|Katter ogillar vatten.
+N3|悔やむ|くやむ|v|to regret|att ångra|過去を[悔やんで]も仕方がありません。|There's no use regretting the past.|Det är ingen idé att ångra det förflutna.
+N3|加える|くわえる|v|to add|att lägga till|スープに塩を少し[加えて]ください。|Please add a little salt to the soup.|Tillsätt lite salt i soppan.
+N3|超える|こえる|v|to exceed; to cross over|att överstiga; att passera|気温が三十五度を[超えました]。|The temperature exceeded 35 degrees.|Temperaturen översteg 35 grader.
+N3|断る|ことわる|v|to refuse; to decline|att tacka nej; att avböja|パーティーの誘いを[断りました]。|I declined the party invitation.|Jag tackade nej till inbjudan till festen.
+N3|好む|このむ|v|to like; to prefer|att föredra|彼は静かな場所を[好みます]。|He prefers quiet places.|Han föredrar lugna platser.
+N3|転ぶ|ころぶ|v|to fall down; to tumble|att ramla|子供が道で[転んで]泣いています。|A child fell on the street and is crying.|Ett barn ramlade på gatan och gråter.
+N3|叫ぶ|さけぶ|v|to shout|att skrika; att ropa|「助けて！」と[叫びました]。|I shouted "Help!"|Jag skrek "Hjälp!"
+N3|避ける|さける|v|to avoid|att undvika|ラッシュアワーを[避けて]出かけます。|I go out avoiding rush hour.|Jag undviker rusningstiden när jag åker iväg.
+N3|支える|ささえる|v|to support|att stödja|家族がいつも私を[支えて]くれます。|My family always supports me.|Min familj stöttar mig alltid.
+N3|誘う|さそう|v|to invite; to ask out|att bjuda; att fråga (om sällskap)|友達を映画に[誘いました]。|I invited my friend to a movie.|Jag frågade min kompis om han ville gå på bio.
+N3|従う|したがう|v|to follow; to obey|att följa; att lyda|ルールに[従って]ください。|Please follow the rules.|Följ reglerna, tack.
+N3|示す|しめす|v|to show; to indicate|att visa; att ange|地図で駅の場所を[示して]ください。|Please show me the station's location on the map.|Visa var stationen ligger på kartan.
+N3|過ごす|すごす|v|to spend (time)|att tillbringa|夏休みは田舎で[過ごしました]。|I spent summer vacation in the countryside.|Jag tillbringade sommarlovet på landet.
+N3|済む|すむ|v|to be finished; to be settled|att vara klar; att ordna sig|用事が[済んだ]ら、すぐ帰ります。|Once my errands are done, I'll go straight home.|När ärendena är klara går jag direkt hem.
+N3|責める|せめる|v|to blame|att klandra|自分を[責めない]でください。|Please don't blame yourself.|Klandra inte dig själv.
+N3|揃う|そろう|v|to be complete; to be gathered|att vara samlade; att vara kompletta|家族全員が[揃って]食事をしました。|The whole family gathered and ate together.|Hela familjen samlades och åt tillsammans.
+N3|耐える|たえる|v|to endure|att uthärda|この建物は大きな地震にも[耐えられます]。|This building can withstand even a big earthquake.|Den här byggnaden klarar även en stor jordbävning.
+N3|確かめる|たしかめる|v|to confirm; to check|att kontrollera|出かける前にかぎを[確かめました]。|I checked my keys before going out.|Jag kollade att jag hade nycklarna innan jag gick ut.
+N3|助ける|たすける|v|to help; to save|att hjälpa; att rädda|おぼれている子供を[助けました]。|I saved a drowning child.|Jag räddade ett barn som höll på att drunkna.
+N3|頼る|たよる|v|to rely on|att förlita sig på|いつまでも親に[頼って]はいけません。|You can't rely on your parents forever.|Man kan inte förlita sig på sina föräldrar för alltid.
+N3|黙る|だまる|v|to be silent|att tiga|彼は何も言わずに[黙って]いました。|He stayed silent without saying anything.|Han teg och sa ingenting.
+N3|騙す|だます|v|to deceive; to trick|att lura|祖母が電話で[騙されました]。|My grandmother was tricked over the phone.|Min mormor blev lurad i telefon.
+N3|違う|ちがう|v|to differ; to be wrong|att skilja sig; att vara fel|私の意見はあなたと[違います]。|My opinion differs from yours.|Min åsikt skiljer sig från din.
+N3|疲れる|つかれる|v|to get tired|att bli trött|今日はたくさん働いて[疲れました]。|I worked a lot today and I'm tired.|Jag har jobbat mycket idag och är trött.
+N3|努める|つとめる|v|to strive; to make an effort|att sträva; att anstränga sig|健康のために早く寝るように[努めて]います。|I try to go to bed early for my health.|Jag försöker gå och lägga mig tidigt för hälsans skull.
+N3|潰す|つぶす|v|to crush; to kill (time)|att krossa; att slå ihjäl (tid)|カフェで時間を[潰しました]。|I killed time at a café.|Jag slog ihjäl tiden på ett kafé.
+N3|積もる|つもる|v|to pile up (snow)|att lägga sig (snö)|一晩で雪が三十センチ[積もりました]。|Thirty centimeters of snow piled up overnight.|Det kom trettio centimeter snö under natten.
+N3|解く|とく|v|to solve; to untie|att lösa; att knyta upp|この問題を[解いて]ください。|Please solve this problem.|Lös det här problemet.
+N3|溶ける|とける|v|to melt|att smälta|暖かくなって雪が[溶けました]。|It got warmer and the snow melted.|Det blev varmare och snön smälte.
+N3|整える|ととのえる|v|to arrange; to prepare|att ordna; att förbereda|出発の準備を[整えました]。|I made all the preparations for departure.|Jag gjorde klart alla förberedelser inför avfärden.
+N3|飛ばす|とばす|v|to fly (tr.); to skip|att låta flyga; att hoppa över|子供たちが紙飛行機を[飛ばして]います。|The children are flying paper airplanes.|Barnen kastar pappersflygplan.
+N3|眺める|ながめる|v|to gaze at|att betrakta; att blicka ut|窓から海を[眺めて]います。|I'm gazing at the sea from the window.|Jag blickar ut över havet från fönstret.
+N3|悩む|なやむ|v|to worry; to be troubled|att bekymra sig; att grubbla|進路について[悩んで]います。|I'm troubled about my future path.|Jag grubblar över vad jag ska göra i framtiden.
+N3|憎む|にくむ|v|to hate|att hata|戦争を[憎む]人は多いです。|Many people hate war.|Många hatar krig.
+N3|願う|ねがう|v|to wish; to hope|att önska; att hoppas|みんなの幸せを[願って]います。|I wish for everyone's happiness.|Jag önskar alla lycka.
+N3|狙う|ねらう|v|to aim at|att sikta på|彼は優勝を[狙って]います。|He is aiming for the championship.|Han siktar på att vinna.
+N3|残す|のこす|v|to leave behind|att lämna kvar|ご飯を[残さないで]食べてください。|Please eat all your food without leaving any.|Ät upp maten utan att lämna något.
+N3|伸びる|のびる|v|to grow; to extend|att växa; att förlängas|一年で背が五センチ[伸びました]。|I grew five centimeters in a year.|Jag växte fem centimeter på ett år.
+N3|述べる|のべる|v|to state; to express|att uttrycka; att framföra|会議で自分の意見を[述べました]。|I stated my opinion at the meeting.|Jag framförde min åsikt på mötet.
+N3|測る|はかる|v|to measure|att mäta|毎朝体温を[測って]います。|I measure my temperature every morning.|Jag tar tempen varje morgon.
+N3|外す|はずす|v|to remove; to take off|att ta av|眼鏡を[外して]ください。|Please take off your glasses.|Ta av dig glasögonen, tack.
+N3|離れる|はなれる|v|to separate; to be away from|att lämna; att vara skild från|家族と[離れて]暮らしています。|I live apart from my family.|Jag bor långt ifrån min familj.
+N3|省く|はぶく|v|to omit; to cut out|att utelämna; att skära bort|無駄な説明を[省きました]。|I cut out unnecessary explanations.|Jag strök onödiga förklaringar.
+N3|流行る|はやる|v|to be popular; to spread|att vara populär; att spridas|今、風邪が[流行って]います。|Colds are going around right now.|Det går en förkylning just nu.
+N3|冷やす|ひやす|v|to chill (tr.)|att kyla|ジュースを冷蔵庫で[冷やして]おきます。|I'll chill the juice in the fridge.|Jag ställer juicen i kylen så den blir kall.
+N3|広がる|ひろがる|v|to spread; to extend (intr.)|att spridas; att breda ut sig|うわさがすぐに[広がりました]。|The rumor spread quickly.|Ryktet spred sig snabbt.
+N3|含む|ふくむ|v|to include; to contain|att innehålla; att inkludera|この値段は税金を[含んで]います。|This price includes tax.|Priset inkluderar moms.
+N3|防ぐ|ふせぐ|v|to prevent|att förhindra|手を洗って風邪を[防ぎましょう]。|Let's prevent colds by washing our hands.|Låt oss förebygga förkylning genom att tvätta händerna.
+N3|振る|ふる|v|to wave; to shake|att vinka; att skaka|駅で友達に手を[振りました]。|I waved to my friend at the station.|Jag vinkade till min kompis på stationen.
+N3|任せる|まかせる|v|to entrust|att anförtro|この仕事は私に[任せて]ください。|Please leave this job to me.|Överlåt det här jobbet åt mig.
+N3|混ぜる|まぜる|v|to mix|att blanda|卵と砂糖をよく[混ぜて]ください。|Please mix the eggs and sugar well.|Blanda ägg och socker ordentligt.
+N3|学ぶ|まなぶ|v|to learn; to study|att lära sig|失敗から多くを[学びました]。|I learned a lot from failure.|Jag lärde mig mycket av misslyckandet.
+N3|見送る|みおくる|v|to see off|att vinka av|空港で友達を[見送りました]。|I saw my friend off at the airport.|Jag vinkade av min kompis på flygplatsen.
+N3|認める|みとめる|v|to admit; to recognize|att erkänna|彼は自分の間違いを[認めました]。|He admitted his mistake.|Han erkände sitt misstag.
+N3|求める|もとめる|v|to seek; to request|att söka; att begära|会社は新しいアイデアを[求めて]います。|The company is seeking new ideas.|Företaget söker nya idéer.
+N3|破る|やぶる|v|to tear; to break (a promise)|att riva sönder; att bryta (löfte)|彼は約束を[破りました]。|He broke his promise.|Han bröt sitt löfte.
+N3|許す|ゆるす|v|to forgive; to permit|att förlåta; att tillåta|どうか私を[許して]ください。|Please forgive me.|Snälla, förlåt mig.
+N3|酔う|よう|v|to get drunk; to get motion sick|att bli full; att bli åksjuk|船に乗ると[酔って]しまいます。|I get seasick when I'm on a boat.|Jag blir sjösjuk när jag åker båt.
+N3|譲る|ゆずる|v|to give up (a seat); to hand over|att överlåta; att erbjuda (plats)|電車でお年寄りに席を[譲りました]。|I gave up my seat to an elderly person on the train.|Jag erbjöd min plats till en äldre person på tåget.
+N3|喧嘩|けんか|n|quarrel; fight|gräl; bråk|弟と[喧嘩]をしてしまいました。|I ended up fighting with my younger brother.|Jag råkade bråka med min lillebror.
+N3|渡す|わたす|v|to hand over|att räcka över; att ge|この書類を部長に[渡して]ください。|Please hand these documents to the manager.|Lämna de här papperen till avdelningschefen.
